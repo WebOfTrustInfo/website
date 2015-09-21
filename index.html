@@ -7,6 +7,14 @@
     <meta name="description" content="Website : Website for">
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <style>
+        .quotes 
+        {
+ul {
+    list-style-position: outside;
+}
+        }
+    </style>
 
     <title>Rebooting the Web of Trust</title>
   </head>
@@ -18,20 +26,59 @@
         <header class="inner">
           <a id="forkme_banner" href="https://github.com/WebOfTrustInfo/website">View on GitHub</a>
 
-          <h1 id="project_title"><img id="main-logo" src="images/wot-logo.png"> Rebooting the Web-of-Trust</h1>
+          <h1 id="project_title"><img id="main-logo" src="images/wot-logo.png"> Rebooting the Web of Trust</h1>
             <br>
         </header>
     </div>
 
+    <!-- QUOTES --->
+    <script type="text/javascript" src="javascripts/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="javascripts/simple.carousel.js"></script>
+    
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            $("ul.example1").simplecarousel({
+                width:640,
+                height:175,
+                visible: 1,
+                auto: 12000,
+            });
+        });
+    </script>
+      
+      
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-
+    <section id="main_content" class="inner">
+    
+</head>
+<body>
+    
+<div class="quotes">
+<center>    
+<ul id="nobullet" class="example1"><li><span id="margin"><i>
+    "FinTech applications, regardless of whether they are centralized or decentralized, <br>
+    are putting new demands on WoT and identity by virtue of creating highly profitable <br>
+    targets for attackers. Resisting these attacks requires ecosystem wide code signing <br>           practices, and in turn PGP usage, far beyond what is currently practiced."</i>
+        <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash;
+    Peter Todd (Bitcoin Core Developer)</span></li>
+        <li><span id="margin"><i>
+    "The web-of-trust that began in Pretty Good Privacy was more than 'pretty good' in <br>
+    1991 and even in 2001. However, as we approach the 25th anniversary of PGP, it is <br>
+    time to take the lessons we've learned and the new cryptographic technologies we've <br>
+    created to take a fresh look at the problem. I'm looking forward to collaborating to <br>
+    create a new foundation for next 25 years of the web-of-trust." </i>
+        <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &mdash; 
+    Jon Callas (CTO of Silent Circle/Blackphone)</span></li>
+    </ul></center>
+    </div>
+    <p></p>
+          
 <h3>            
 <a id="workshop-purpose" class="anchor" href="#workshop-purpose" aria-hidden="true"><span class="octicon octicon-link"></span></a>Workshop Purpose</h3>
 
-<p>This facilitated design workshop is concentrated on creating the next generation of decentralized web-of-trust based identity systems. The goal of this workshop is to generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future.</p>
-<p><strong>Topics include:</strong> hierarchical identity keys, perfect forward secrecy, self-validating script in certifications, unbundling certification from revocation, attribute certificates, selective disclosure, multisig+group+ring signatures using Schnorr, reputation and trust metrics, etc.</p>
+<p>This facilitated design workshop is concentrated on creating the next generation of decentralized web of trust based identity systems. The goal of this workshop is to generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future.</p>
+<p><strong>Topics include:</strong> hierarchical identity keys, perfect forward secrecy, self-validating script in certifications, unbundling certification from revocation, attribute certificates, selective disclosure, multisig+group+ring signatures using Schnorr, reputation and trust metrics.</p>
 
 <br>
 <h3>
@@ -39,8 +86,8 @@
 
 <p><ul><li>Build the next generation of Web-Of-Trust based identity systems.</li>
 <li>Showcase the scope of potential applications for decentralized trust models.</li>
-<li>Bring together the top contributors in Web-Of-Trust and simlar applications.</li>
-<li>Explore developing applications and tools that might be useful to funders and researchers.</li>
+<li>Bring together the top contributors in web of trust and simlar applications.</li>
+<li>Explore developing tools that might be useful to funders and researchers.</li>
 <li>Discuss and suggest requirements to drive adoption in the Web-of-Trust model.</li></ul></p>
 
 <br>
@@ -49,13 +96,13 @@
 
 <p><ul><li>Generate 5 technical white papers on the topics that will have the greatest impact.</li>
 <li>A better informed core developers as a result of discussion and publication of outputs.</li>
-<li>A start to the next generation of web-of-trust models that influence the community beyond this particular workshop.</li></ul></p>
+<li>A start to the next generation of web of trust models that influence the community beyond this particular workshop.</li></ul></p>
 
 <br>
 <h3>
 <a id="intended-audience" class="anchor" href="#intended-audience" aria-hidden="true"><span class="octicon octicon-link"></span></a>Intended Audience</h3>
 
-<p>This two day event is intended for developers, cryptographers, and research-related staff who are heavily involved in building the current infrastructure of Web-Of-Trust tools.</p>
+<p>This two day event is intended for developers, cryptographers, and research-related staff who are heavily involved in building the current infrastructure of web of trust tools.</p>
 <p>Experienced developers are the core of contributors in this workshop. New developers are also welcome, at a minimum we expect familiarity with PGP and certificate authorities. Most participants are researchers working in the fields of cryptocurrency and cryptography at large. Open Source content will be the primary source material for this workshop.</p>  
 
 <br>

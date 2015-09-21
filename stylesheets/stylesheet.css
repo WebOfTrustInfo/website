@@ -29,6 +29,14 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
+#nobullet{
+	list-style-type: none;
+}
+
+#margin{
+	padding:10px;
+}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -291,7 +299,7 @@ Full-Width Styles
 
 #project_title {
   color: #fff;
-  font-size: 36px;
+  font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
