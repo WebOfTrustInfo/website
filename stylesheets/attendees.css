@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.people{
+	width:158px;
+	margin:1px;
+	float:left;
+}
+
+.text{
+	padding:1px;
+}
+
+.name{
+	font-weight:700;
+    font-size: 18px;
+
+}
+
+.title{
+    font-size: 12px;
+
+}
