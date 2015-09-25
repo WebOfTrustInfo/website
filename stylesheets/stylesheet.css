@@ -52,6 +52,17 @@ table {
   border-spacing: 0;
 }
 
+#respect{
+	width:256px;
+	height:70px;
+	background-image:url(../images/sponsors/RN-Logo-Hover.png);
+	background-position:top;
+}
+
+#respect:hover{
+	background-position:bottom;
+}
+
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
