@@ -54,14 +54,37 @@ table {
   border-spacing: 0;
 }
 
+.sponsors{
+	height:80px;
+	margin:10px;
+	margin-top:20px;
+}
+
 #respect{
 	width:256px;
 	height:70px;
 	background-image:url(../images/sponsors/RN-Logo-Hover.png);
 	background-position:top;
+    float: left;
+	margin-right:30px;
+	margin-top:10px;
+	margin-left:5x;
 }
 
 #respect:hover{
+	background-position:bottom;
+}
+
+#priceWaterhouseCoopers{
+	width:119px;
+	height:90px;
+	background-image:url(../images/sponsors/PwC-Logo-Hover.png);
+	background-position:top;
+    float: left;
+	margin-right:20px;
+}
+
+#priceWaterhouseCoopers:hover{
 	background-position:bottom;
 }
 
