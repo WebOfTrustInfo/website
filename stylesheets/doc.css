@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.doc{
+	margin:1px;
+	float:left;
+}
+
+.text{
+	padding:1px;
+}
+
+.doc-title{
+	font-weight:700;
+    font-size: 18px;
+
+}
+
+.doc-desc{
+    font-size: 12px;
+
+}
