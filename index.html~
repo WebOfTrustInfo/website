@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Website : Website for">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/doc.css">
+
+    <style>
+    .quotes {
+        ul {
+        list-style-position: outside;
+        }
+    }
+    </style>
+    <style>
+    img.bottom {
+        vertical-align: text-bottom;
+    }
+    </style>
+</head>
+
+
+<body>
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+    <header class="inner">
+        <center>
+            <h1 id="project_title">
+            <img id="main-logo" class="bottom" src="images/wot-logo.png"> Rebooting the Web of Trust
+            </h1>
+        </center>
+    </header><br>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+    <section id="main_content" class="inner">
+
+    <!--DATE-->
+    <center><h5>Initial Rebooting the Web of Trust Design Workshop</h5>
+        <h5>San Francisco, CA — November 3rd to 4th, 2015</h5></center>
+
+    <center><h5>Resulting Publications Pending</h5></center><br>
+
+    <!--Sponsors-->
+    <div class="sponsors"><p align="middle">
+        <!--Respect Network-->
+            <div id="respect"><a href="https://www.respectnetwork.com/"></div></a>
+        <!--PwC-->
+            <div id="priceWaterhouseCoopers"><a href="http://www.pwc.com/"></div></a>
+        <!--oix-->
+            <div id="openIdentityExchange"><a href="http://openidentityexchange.org/"></div></a>
+    </p></div><br>
+
+    <p><i>Rebooting the Web of Trust is a cooperative of tech visionaries experienced with security, privacy, and identity.
+    Its goal is to imagine and implement the future of decentralized trust on the internet. The first 40 members of the group came together 
+    at a <a href="event-2015-sf.html">design workshop</a> held in San Francisco, California on November 3rd and November 4th, 2015. 
+    The goal for that initial workshop was to produce 3-5 white papers or design specs, the first of which appear below.</i></p>
+    <p><i>Moving forward, Rebooting the Web of Trust's major goal is to produce a notable product for release during July 2016,
+    to commemorate the 25th anniversary of PGP, the software that created the first Web of Trust. To accomplish this goal, we
+    are planning more design workshops, hackathons, or other get-togethers in the first half of 2016.</i></p>
+  
+<h3>The Papers</h3>
+<p>The following papers originated at the <a href="event-2015-sf.html">2015 SF design workshop</a>.</p>
+ <div class="doc">
+        <center>
+        <img src="images/icon-docdownload.png" style="width:145px;height:145px;">
+            <p class="text">
+                <span class="doc-title">Rebranding the Web of Test</span>
+                <span class="doc-desc">What Web of Trust means and what it defines.</span>
+            </p>
+        </center>
+        </div>
+
+    
+      <!-- FOOTER  -->
+    </div>
+        <div id="footer_wrap" class="outer">
+            <footer class="inner">
+                <p><center>&#xA9; 2015 WebOfTrustInfo</center></p>
+            </footer>
+        </div>
+</body>
+</html>

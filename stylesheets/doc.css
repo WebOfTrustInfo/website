@@ -1,22 +1,40 @@
 @charset "UTF-8";
 /* CSS Document */
 
-.doc{
+.doc-link {
 	margin:1px;
-	float:left;
+	clear: left;
+	position: relative;
+	left: 50px;
+	overflow: hidden;
 }
 
-.text{
+.doc-pic{
+
+	float: left;
+	margin: 0px 20px 0px 0px;
+	line-height: 60px;
+	vertical-align: middle;
+
+}
+
+.doc-text{
+	width: calc(100%-126px);
+	align: left;
+	position: absolute;
 	padding:1px;
+	vertical-align: middle;
 }
 
 .doc-title{
 	font-weight:700;
     font-size: 18px;
-
+    line-height: 100%;
+    text-align: left;
 }
 
 .doc-desc{
-    font-size: 12px;
-
+    font-weight: 500;
+    font-size: 14px;
+    text-align: left;
 }
