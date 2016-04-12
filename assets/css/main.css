@@ -2379,7 +2379,7 @@
 	}
 
 		.features li {
-			padding: 15em 1em 1em 1em ;
+			padding: 1em 1em 1em 1em ;
 			display: block;
 			position: relative;
 			text-align: left;
@@ -2454,7 +2454,7 @@
 			@media screen and (max-width: 980px) {
 
 				.features li {
-					padding: 15em 1em 1em 1em ;
+					padding: 1em 1em 1em 1em ;
 					text-align: center;
 				}
 
@@ -2470,7 +2470,7 @@
 			@media screen and (max-width: 736px) {
 
 				.features li {
-					padding: 15em 1em 1em 1em ;
+					padding: 1em 1em 1em 1em ;
 					background-color: transparent !important;
 					border-top: solid 2px #fff;
 					width: 100%;
@@ -2593,7 +2593,7 @@
 				}
 
 				.spotlight .content {
-					padding: 4em 3em 2em 3em ;
+					padding: 1em 1em 1em 1em ;
 					max-width: none;
 					text-align: center;
 					width: 100%;
@@ -2604,7 +2604,7 @@
 		@media screen and (max-width: 736px) {
 
 			.spotlight .content {
-				padding: 3em 2em 1em 2em ;
+				padding: 1em 1em 1em 1em ;
 			}
 
 		}
