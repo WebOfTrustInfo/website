@@ -2425,7 +2425,40 @@
 			.features li:nth-child(10) {
 				background-color: rgba(0, 0, 0, 0.35);
 			}
+			
+			.features li:nth-child(11) {
+				background-color: rgba(0, 0, 0, 0.28);
+			}
 
+			.features li:nth-child(12) {
+				background-color: rgba(0, 0, 0, 0.245);
+			}
+			
+			.features li:nth-child(13) {
+				background-color: rgba(0, 0, 0, 0.21);
+			}
+			
+			.features li:nth-child(14) {
+				background-color: rgba(0, 0, 0, 0.175);
+			}
+			
+			.features li:nth-child(15) {
+				background-color: rgba(0, 0, 0, 0.14);
+			}
+			
+			.features li:nth-child(16) {
+				background-color: rgba(0, 0, 0, 0.105);
+			}
+			
+			.features li:nth-child(17) {
+				background-color: rgba(0, 0, 0, 0.07);
+			}
+			
+			.features li:nth-child(18) {
+				background-color: rgba(0, 0, 0, 0.035);
+			}
+
+			
 			.features li:before {
 				display: block;
 				color: #00ffcc;
