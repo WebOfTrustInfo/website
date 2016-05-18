@@ -2457,7 +2457,42 @@
 			.features li:nth-child(18) {
 				background-color: rgba(0, 0, 0, 0.035);
 			}
+			
+			.features li:nth-child(19) {
+				background-color: rgba(0, 0, 0, 0.07);
+			}
 
+			.features li:nth-child(20) {
+				background-color: rgba(0, 0, 0, 0.105);
+			}
+			
+			.features li:nth-child(21) {
+				background-color: rgba(0, 0, 0, 0.14);
+			}
+			
+			.features li:nth-child(22) {
+				background-color: rgba(0, 0, 0, 0.175);
+			}
+			
+			.features li:nth-child(23) {
+				background-color: rgba(0, 0, 0, 0.21);
+			}
+			
+			.features li:nth-child(24) {
+				background-color: rgba(0, 0, 0, 0.245);
+			}
+			
+			.features li:nth-child(25) {
+				background-color: rgba(0, 0, 0, 0.28);
+			}
+			
+			.features li:nth-child(26) {
+				background-color: rgba(0, 0, 0, 0.35);
+			}
+			
+			.features li:nth-child(27) {
+				background-color: rgba(0, 0, 0, 0.315);
+			}
 			
 			.features li:before {
 				display: block;
