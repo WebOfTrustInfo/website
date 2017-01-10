@@ -940,7 +940,7 @@ pre {
 .fh5co-call-to-action .fh5co-call-to-action-text {
   font-size: 50px;
   line-height: 60px;
-  font-family: "PT Mono", sans-serif;
+  font-family: "Questrial", sans-serif;
   text-transform: uppercase;
 }
 .fh5co-call-to-action .btn {
@@ -1144,7 +1144,7 @@ a > img.fh5co-align-center {
 }
 
 .resp-tabs-list li {
-  font-family: "PT Mono", sans-serif;
+  font-family: "Questrial", sans-serif;
 }
 
 .resp-content-active, .resp-accordion-active {
@@ -1165,7 +1165,7 @@ a > img.fh5co-align-center {
 
 /* Pricing Tables */
 .fh5co-pricing-table-1 {
-  font-family: "PT Mono", sans-serif;
+  font-family: "Questrial", sans-serif;
 }
 @media screen and (max-width: 992px) {
   .fh5co-pricing-table-1 .fh5co-pricing-table-item {
@@ -1241,7 +1241,7 @@ a > img.fh5co-align-center {
 }
 
 .fh5co-link {
-  font-family: "PT Mono", sans-serif;
+  font-family: "Questrial", sans-serif;
 }
 .fh5co-link > i {
   margin-right: 5px;
