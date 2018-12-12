@@ -1287,4 +1287,10 @@ a > img.fh5co-align-center {
   background-color: LightGray;
 }
 
+img.sponsor {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
 /*# sourceMappingURL=style.css.map */
