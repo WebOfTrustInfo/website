@@ -1289,7 +1289,7 @@ a > img.fh5co-align-center {
 }
 
 img.sponsor {
-    max-width: 100%;
+    max-width: 400px;
     height: auto;
     width: auto\9; /* ie8 */
 }
