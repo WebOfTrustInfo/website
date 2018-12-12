@@ -1282,7 +1282,7 @@ a > img.fh5co-align-center {
   border: 1px DarkGray;
   border-style: solid;
   border-radius: 8px;
-  box-shadow:0px 0px 0px 10px black inset;
+  padding: 10px
 }
 
 .past {
@@ -1290,7 +1290,7 @@ a > img.fh5co-align-center {
 }
 
 img.sponsor {
-    max-width: 400px;
+    max-width: 500px;
     height: auto;
     width: auto\9; /* ie8 */
 }
