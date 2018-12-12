@@ -1280,6 +1280,7 @@ a > img.fh5co-align-center {
 
 .event {
   border: 1px DarkGray;
+  border-style: solid;
   border-radius: 8px;
 }
 
