@@ -1297,6 +1297,11 @@ a > img.fh5co-align-center {
 
 }
 
+.event.current {
+      background: LightGray;
+
+}
+
 img.sponsor {
   
   display: block;
