@@ -1279,13 +1279,13 @@ a > img.fh5co-align-center {
 }
 
 .event {
-  border: 1px DarkGray;
+  border: 2px DarkGray;
   border-style: solid;
   border-radius: 8px;
   padding: 10px
 }
 
-.past {
+.event.past {
   background-color: LightGray;
 }
 
