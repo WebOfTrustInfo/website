@@ -1282,6 +1282,7 @@ a > img.fh5co-align-center {
   border: 1px DarkGray;
   border-style: solid;
   border-radius: 8px;
+  box-shadow:0px 0px 0px 10px black inset;
 }
 
 .past {
