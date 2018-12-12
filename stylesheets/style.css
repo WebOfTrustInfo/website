@@ -1316,4 +1316,10 @@ img.sponsor {
 
 }
 
+.event-links {
+  font-style: italic;
+  font-weight: 80%;
+  text-align: right;
+}
+
 /*# sourceMappingURL=style.css.map */
