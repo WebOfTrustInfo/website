@@ -1278,4 +1278,13 @@ a > img.fh5co-align-center {
   color: #7b7b7b;
 }
 
+.event {
+  border: 1px DarkGray;
+  border-radius: 8px;
+}
+
+.past {
+  background-color: LightGray;
+}
+
 /*# sourceMappingURL=style.css.map */
