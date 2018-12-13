@@ -1278,7 +1278,7 @@ a > img.fh5co-align-center {
   color: #7b7b7b;
 }
 
-.event {
+.cartouche {
   border: 2px Black;
   border-style: solid;
   border-radius: 8px;
@@ -1286,18 +1286,18 @@ a > img.fh5co-align-center {
 
 }
 
-.event li {
+.cartouche li {
     font-size: 110%;
     font-weight: 600;
 
 }
 
-.event.current {
+.cartouche.current-event {
       background: LightYellow;
 
 }
 
-.event.past {
+.cartouche.past-event {
       background: #F3F3F3;
 
 }
