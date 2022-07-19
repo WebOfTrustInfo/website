@@ -1,0 +1,1 @@
+This directory is meant to contain a few images from each event, to be dynamically selected for the main page and linked to subpages. If an event isn't appropriate for the front page, instead place it in events-nofp

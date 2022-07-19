@@ -1,0 +1,1 @@
+The next Rebooting the Web of Trust event will occur in The Hague, The Netherlands on September 26-30, 2022. <a href="https://rebootthehague.com/">Learn More</a> or <a href="https://www.eventbrite.com/e/rebooting-the-web-of-trust-xi-2022-the-hague-tickets-347605426187">Sign up on Eventbrite.</a>

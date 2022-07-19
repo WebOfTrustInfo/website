@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /    
+  - title: "About"
+    url: /about/
+  - title: "Announcements"
+    url: /posts/
+  - title: "Events"
+    url: /events/
+  - title: "Papers"
+    url: /papers/
+  - title: "Library"
+    url: /library/
