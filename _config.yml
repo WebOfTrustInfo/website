@@ -110,4 +110,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  og_image: /assets/images/rwot-logo.jpg
+  og_image: /assets/images/rwot-logo.png
