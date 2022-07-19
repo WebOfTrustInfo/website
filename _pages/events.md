@@ -31,7 +31,7 @@ rwot_9:
   - image_path: "/assets/images/events/rwot9b.jpeg"
     alt: "RWOT 9"
     title: "RWOT 9: Prague (2019)"
-    excerpt: 'The final Prague before the global COVID pandemic was held in Prague of the Czech Republic in September 2019.'
+    excerpt: 'The final design workshop before the global COVID pandemic was held in Prague of the Czech Republic in September 2019.'
     url: "https://github.com/WebOfTrustInfo/rwot9-prague/tree/master/final-documents#readme"
     btn_label: "Final Papers"
     btn_class: "btn--success"
@@ -73,7 +73,7 @@ rwot_6:
   - image_path: "/assets/images/events/rwot6a.jpeg"
     alt: "RWOT 6"
     title: "RWOT 6: Santa Barbara (2018)"
-    excerpt: 'Legendary Requirements came on board in March 2018 to host our first Southern California design workshop.'
+    excerpt: 'Legendary Requirements came on board in March 2018 to host our first Southern Californian design workshop.'
     url: "https://github.com/WebOfTrustInfo/rwot6-santabarbara/tree/master/final-documents#readme"
     btn_label: "Final Papers"
     btn_class: "btn--success"
@@ -129,7 +129,7 @@ rwot_2:
   - image_path: "/assets/images/events/rwot2a.jpg"
     alt: "RWOT 2"
     title: "RWOT 2: ID2020 (2016)"
-    excerpt: 'Our second event, held in New York in May 2016 in conjunction with the ID2020 Summit at the United Nations.'
+    excerpt: 'Our second event was held in New York in May 2016 in conjunction with the ID2020 Summit at the United Nations.'
     url: "https://github.com/WebOfTrustInfo/rwot2-id2020/tree/master/final-documents#readme"
     btn_label: "Final Papers"
     btn_class: "btn--success"
