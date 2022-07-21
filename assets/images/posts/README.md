@@ -1,0 +1,1 @@
+assets for blog posts.
