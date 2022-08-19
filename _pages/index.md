@@ -34,7 +34,7 @@ _Please consider joining us for the next RWOT event!_
 
 {% capture notice-2 %}
 
- {% for post in site.posts limit: 2 %}
+ {% for post in site.posts limit: 3 %}
  
   <b>{{ post.date | date: "%Y-%m-%d" }}: <a href="{{ post.url }}">{{ post.title }}</a></b><br>
 
