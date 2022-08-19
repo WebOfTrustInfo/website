@@ -102,7 +102,7 @@ Many insightful things were said during the salon, especially in our "Social Dre
 "We need to ensure that everyone is being heard."
 {% endcapture%}
 
-<div class="notice--primary">{{ notice-1 | markdownify }}
+<div class="notice--primary">{{ notice-1 | markdownify }}</div>
 
 ## About Consensus
 
@@ -117,7 +117,7 @@ Many insightful things were said during the salon, especially in our "Social Dre
 "What if everyone could do something that brought them joy and fulfillment?"
 {% endcapture%}
 
-<div class="notice--primary">{{ notice-2 | markdownify }}
+<div class="notice--primary">{{ notice-2 | markdownify }}</div>
 
 ## About Information
 
@@ -127,7 +127,7 @@ Many insightful things were said during the salon, especially in our "Social Dre
 "There used to be knowledge horizons, where information only spread as far as people decided to spread it."
 {% endcapture%}
 
-<div class="notice--primary">{{ notice-3 | markdownify }}
+<div class="notice--primary">{{ notice-3 | markdownify }}</div>
 
 ## About Metrics
 
@@ -137,7 +137,7 @@ Many insightful things were said during the salon, especially in our "Social Dre
 "The ultimate metric we fetishize is money."
 {% endcapture%}
 
-<div class="notice--primary">{{ notice-4 | markdownify }}
+<div class="notice--primary">{{ notice-4 | markdownify }}</div>
 
 ## About Privacy
 
