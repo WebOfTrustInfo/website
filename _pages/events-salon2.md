@@ -92,7 +92,7 @@ Many insightful things were said during the salon, especially in our "Social Dre
 
 ![](https://www.weboftrust.info/assets/images/events-salon2/social-dreaming-matrix.png)
 
-## About Collective Choice
+#### About Collective Choice
 
 {% capture notice-1 %}
 "How Do We Avoid Collective Bias?"
@@ -104,12 +104,12 @@ Many insightful things were said during the salon, especially in our "Social Dre
 
 <div class="notice--primary">{{ notice-1 | markdownify }}</div>
 
-## About Consensus
+#### About Consensus
 
 "We don't have to have one massive monoculture. Nature is resilient because it's made of a whole bunch of interlocking tiny little heterogeneous cultures. You can't grow a forest just by planting a ton of trees. There is research into planting thirty or forty varieties of trees and shrubs that work together."
 {: .notice--primary}
 
-## About Humanity Online
+#### About Humanity Online
 
 {% capture notice-2 %}
 "How do we nourish the human spirit? We need to get everyone on the planet fully online and engaged with something that's inspiring to them."
@@ -119,7 +119,7 @@ Many insightful things were said during the salon, especially in our "Social Dre
 
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
 
-## About Information
+#### About Information
 
 {% capture notice-3 %}
 "Humanity is full of examples of groups that seek to wipe out any mention of something."
@@ -129,7 +129,7 @@ Many insightful things were said during the salon, especially in our "Social Dre
 
 <div class="notice--primary">{{ notice-3 | markdownify }}</div>
 
-## About Metrics
+#### About Metrics
 
 {% capture notice-4 %}
 "There's nothing more dangerous than a number that's easy to measure and almost useful."
@@ -139,61 +139,61 @@ Many insightful things were said during the salon, especially in our "Social Dre
 
 <div class="notice--primary">{{ notice-4 | markdownify }}</div>
 
-## About Privacy
+#### About Privacy
 
 "Nothing in Facebook is private. The Zuck can see all, and that's very dangerous."
 {: .notice--primary}
 
-## About Public Good
+#### About Public Good
 
 "What if everyone got paid to do something good for the planet?"
 {: .notice--primary}
 
-## About Resilience
+#### About Resilience
 
 "I think key to this is trusting the data you put into these systems will stay there."
 {: .notice--primary}
 
-## About Shared Knowledge
+#### About Shared Knowledge
 
 "That idea that H.G. Wells had of the World Brain, where we can all become smarter by collecting our knowledge and working together on goals ... I think that's the lost promise of the internet."
 {: .notice--primary}
 
-## What Self-Sovereign Means
+#### What Self-Sovereign Means
 
 "We need to build a new foundation that's in service of the individuals, to decentralize power, not simply to change the architectural model for its own end."
 {: .notice--primary}
 
-## About Virtual Nations
+#### About Virtual Nations
 
 "We actually have the technology now to form collections of humans that are like nations, but are delineated not by geography, but by shared principles and goals."
 {: .notice--primary}
 
 ## Questions about the Salon
 
-## What is RWOT?
+#### What is RWOT?
 
 RWOT is <a href="https://www.weboftrust.info/">Rebooting the Web of Trust</a>. We held nine in-person design workshops from 2015-2019. Our goal was to produce actual work product at the workshops, which has resulted in the production of <a href="https://www.weboftrust.info/papers/">over 50 white papers</a> on the future of identity of the internet, including incubation of the DID standard. We've also produced a few code libraries and demonstrations.
 
 The next workshop is tentatively scheduled <a href="https://rebootthehague.com/">this September in The Hague</a>. This was our second virtual salon in the interim.
 
-## What is a Virtual Salon?
+#### What is a Virtual Salon?
 
 A virtual salon is a meeting of interested people to discuss a topic. In keeping with the work focus of RWOT, our goal is to drive each salon toward producing output, in this case individual and optimistic dreams of the future.
 
-## How Many People Attended?
+#### How Many People Attended?
 
 We had approximately 25 participants and a facilitation team of about a half-dozen.
 
-## Who Attended?
+#### Who Attended?
 
 Our participants were worldwide. In the US, we had participants from California to New York, from Hawaii to Puerto Rico. Worldwide, participants also came from Canada, Finland, Germany, Italy, Mexico, and the UK
 
-## How Did You Run Your Virtual Salon?
+#### How Did You Run Your Virtual Salon?
 
 We used Zoom for our conversations, with ample use of randomly assigned 2-3 person breakout rooms to support smaller discussions where everyone could have a say. 
 
-## What Were the Guidelines for the Conversations?
+#### What Were the Guidelines for the Conversations?
 
 All conversation was protected by the Chatham House Rules:
 
@@ -208,14 +208,14 @@ All conversation was protected by the Chatham House Rules:
 **Producer:** Erica Connell<br>
 **Editor-in-Chief:** Shannon Appelcline<br>
 
-## Participants
+#### Participants
 
 Will Abramson, Christopher Allen, Joe	Andrieu, Georgios	Antoniadis, Shannon	Appelcline, Elena Chachkarova, Erica	Connell, Brad	DeGraf, Dario	Duran, Andrew	Ferreira, Ryan Grant, Elio	Grieco,  Ivan	Jackson, Andre	Kudra, Lio	Lunesu, Brandon	Mason, Steve	Melville, Ese	Ojo, Dan	Ostrovsky,  Przemek	Praszczalek, Brent	Shambaugh, Lohan Spies, Tibet	Sprague, Carsten	Stöcker, Steve	Vitka.
 
-## Sponsors
+#### Sponsors
 
 Digital Bazaar, Digital Contract Design
 
-## Contributing Sponsors
+#### Contributing Sponsors
 
 Blockchain Commons, Legendary Requirements
