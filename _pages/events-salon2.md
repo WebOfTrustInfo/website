@@ -32,7 +32,7 @@ Our main group topic was:
 
 The following graphic captures the major topics and thoughts of the salon:
 
-![](https://www.weboftrust.info/assets/images/events-salon2/image0.jpeg)
+[![](https://www.weboftrust.info/assets/images/events-salon2/image0.jpeg)](https://www.weboftrust.info/assets/images/events-salon2/image0.jpeg)
 
 ## The Objects
 
