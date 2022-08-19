@@ -4,7 +4,7 @@ layout: single
 classes:
   - wide
 author_profile: true
-title: "Virtual Salon: Out of the Box 2042"
+title: "Virtual Salon: Out of the Box 2052"
 ---
 
 ![](https://www.weboftrust.info/assets/images/events-salon2/wot-logo-salon2.png)
