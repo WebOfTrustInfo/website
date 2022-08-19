@@ -5,6 +5,20 @@ classes:
   - wide
 author_profile: true
 title: "RWOT Events"
+vsalon_2:
+  - image_path: "/assets/images/events-salon2/image0.jpeg"
+    alt: "Virtual Salon 2"
+    title: "Virtual Salon 2 (2021)"
+    excerpt: 'The second RWOT Virtual Salon considered the future, in Out of the Box 2052.'
+    url: "/salons/outofthebox2052"
+    btn_label: "Overview"
+    btn_class: "btn--success"
+    url2: "/salons/outofthebox2052#an-overview"
+    btn_label2: "Graphics"
+    btn_class2: "btn--info"
+    url3: "/salons/outofthebox2052#key-quotes"
+    btn_label3: "Key Quotes"
+    btn_class3: "btn--info"
 vsalon_1:
   - image_path: "/assets/images/events-salon1/rwot_v3_web_final.jpeg"
     alt: "Virtual Salon 1"
@@ -161,6 +175,7 @@ rwot_1:
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
+{% include feature_row id="vsalon_2" type="left" %}
 {% include feature_row id="vsalon_1" type="left" %}
 {% include feature_row id="rwot_10" type="left" %}
 {% include feature_row id="rwot_9" type="left" %}
