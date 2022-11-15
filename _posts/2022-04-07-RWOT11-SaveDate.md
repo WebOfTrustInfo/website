@@ -1,5 +1,5 @@
 ---
-title: "Save the Date for RWOT in the Hague: September 26-30, 2022"
+title: "☑️ Save the Date for RWOT in the Hague: September 26-30, 2022"
 excerpt_separator: "<!--more-->"
 categories:
   - RWOT Workshop
