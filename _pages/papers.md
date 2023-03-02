@@ -7,7 +7,7 @@ toc: true
 toc_label: Final Papers
 ---
 This is categorized list of papers produced by the Rebooting the Web of
-Trust design workshops is complete through **RWOT-IX** in Prague (2019).
+Trust design workshops is complete through **RWOT-XI** in The Hague (2022). To date we have produced **64** papers across **10** workshops.
 
 ## Attestation
 
@@ -94,6 +94,7 @@ Theorem](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/b
 *A portable, globally unique identifier associated with some entity that
 does not require a centralized authority for registration.*
 
+* **10/31/22:** [Taking out the CRUD: Five Fabulous DID Attacks](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/taking-out-the-crud-five-fabulous-did-attacks.pdf)
 * **8/20/19:** [Using OpenID Connect Self-Issued to Achieve DID
 Auth](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/did-auth-oidc.pdf)
 * **4/4/19:** [RWOT8 DID Specification
@@ -262,6 +263,11 @@ Alignment](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring20
 * **2/21/17:** [The DCS
 Theorem](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/dcs-theorem/The-DCS-Theorem.pdf)
 
+## Threat Models
+
+*Ways that things could go wrong.*
+* **10/31/22:** [Taking out the CRUD: Five Fabulous DID Attacks](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/taking-out-the-crud-five-fabulous-did-attacks.pdf)
+
 ## Use Cases
 
 *Explorations of situations where the Web of Trust could be used.*
@@ -291,6 +297,10 @@ Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/f
 
 *A tamper-evident set of claims about the same entity.*
 
+* **2/15/23:** [Composing Credentials via LinkedClaims and Cryptographic Binding](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/composable-credentials.pdf)
+* **2/3/23:** [Identifier Binding: defining the Core of Holder Binding](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/identifier-binding.pdf)
+* **12/19/22:** [Verifiable Issuers & Verifiers](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/verifiable-issuers-and-verifiers.pdf)
+* **12/15/22:** [Linking Credentials with Data Exchange Agreements through Secured Inclusive Interfaces](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/data-exchange-agreements-with-oca.pdf)
 * **11/19/19:** [Alice Attempts to Abuse a Verifiable Credential](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/alice-attempts-abuse-verifiable-credential.pdf)
 * **11/19/19:** [Blockcerts v3 Proposal](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/BlockcertsV3.pdf)
 * **7/8/20:** [Driving Adoption with Focus on Basic Human Needs: Safety
@@ -298,7 +308,7 @@ and
 Security](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/driving-adoption-needs.pdf)
 * **7/22/19:** [Digital Credential
 Wallets](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/digital-credential-wallet.pdf)
-* **2/13/19:** [IPLD as a General Pattern for DID Documents and Verifable
+* **2/13/19:** [IPLD as a General Pattern for DID Documents and Verifiable
 Claims](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/ipld-did.pdf)
 * **2/13/19:** [Use Cases and Proposed Solutions for Verifable Offline
 Credentials](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/offline-use-cases.pdf)
@@ -308,9 +318,11 @@ Trust](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-t
 * **6/20/18:** [Open Badges are Verifiable
 Credentials](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-documents/open-badges-are-verifiable-credentials.pdf)
 
-## Verification
+## Verifiers & Verification
 
 *The act of proving the accuracy of something.*
+
+* **12/19/22:** [Verifiable Issuers & Verifiers](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/verifiable-issuers-and-verifiers.pdf)
 * **11/26/18:** [Resource Integrity
 Proofs](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7/blob/master/final-documents/resource-integrity-proofs.pdf)
 
