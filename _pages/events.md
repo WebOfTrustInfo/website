@@ -5,6 +5,20 @@ classes:
   - wide
 author_profile: true
 title: "RWOT Events"
+rwot_11:
+  - image_path: "/assets/images/events/rwot11a.jpeg"
+    alt: "RWOT 11"
+    title: "RWOT 11: The Hague (2022)"
+    excerpt: 'We are back! Our first post-COVID workshop was held in The Hague of the Netherlands in September 2022.'
+    url: "https://github.com/WebOfTrustInfo/rwot11-the-hague/tree/master/final-documents#readme"
+    btn_label: "Final Papers"
+    btn_class: "btn--success"
+    url2: "https://github.com/WebOfTrustInfo/rwot11-the-hague/tree/master/advance-readings#topical-listing"
+    btn_label2: "Advance Readings"
+    btn_class2: "btn--info"
+    url3: "https://github.com/WebOfTrustInfo/rwot11-the-hague/"
+    btn_label3: "Repo"
+    btn_class3: "btn--info"
 vsalon_2:
   - image_path: "/assets/images/events-salon2/image0.jpeg"
     alt: "Virtual Salon 2"
