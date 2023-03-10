@@ -16,7 +16,7 @@ andrieu:
     image_size: "200px"
     alt: "Joe Andrieu"
     title: "Joe Andrieu"
-    excerpt: '<i><b>RWOT TREASURER & BOARD MEMBER.</b><br>DID & VC Use Cases Co-Editor, W3C. Legendary Requirements, CEO.</i><br><br>Joe leads requirements efforts for the W3C Decentralized Identifiers WG, W3C Credentials CG and RWOT.  He is the creator of the DID Method Rubric, and the lead author of Joram 1.0.0, Amira 1.0.0, and the Functional Identity Primer.'
+    excerpt: '<i><b>RWOT TREASURER & BOARD MEMBER.</b><br>DID & VC Use Cases Co-Editor, W3C.<br>Legendary Requirements, CEO.</i><br><br>Joe leads requirements efforts for the W3C Decentralized Identifiers WG, W3C Credentials CG and RWOT.  He is the creator of the DID Method Rubric, and the lead author of Joram 1.0.0, Amira 1.0.0, and the Functional Identity Primer.'
 connell:
   - image_path: "/assets/images/board-connell.png"
     image_size: "200px"
@@ -28,7 +28,7 @@ suzuki:
     image_size: "200px"
     alt: "Shigeya Suzuki"
     title: "Shigeya Suzuki"
-    excerpt: "<i><b>RWOT BOARD MEMBER.</b><br>DID Core Test Suite Co-Editor, W3C. Ph.D., Project Professor, Keio University, Japan.</i><br><br>Shigeya is a distributed system expert with more than 30 years of experience both in the business sector and academia. Lately, active in W3C's DID and VC WG. He is one of the architects of Trusted Web, an initiative in Japan, and the principal designer of Originator Profile technology."
+    excerpt: "<i><b>RWOT BOARD MEMBER.</b><br>DID Core Test Suite Co-Editor, W3C.<br>Ph.D., Project Professor, Keio University, Japan.</i><br><br>Shigeya is a distributed system expert with more than 30 years of experience both in the business sector and academia. Lately, active in W3C's DID and VC WG. He is one of the architects of Trusted Web, an initiative in Japan, and the principal designer of Originator Profile technology."
 
 rivai:
   - image_path: "/assets/images/board-rivai.png"
