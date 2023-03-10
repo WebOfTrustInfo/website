@@ -34,6 +34,8 @@ Though the precise workshop process may vary from one event to another, the foll
 
 ## The Team
 
+The 2023 Rebooting Web of Trust Board is Christopher Allen, Joe Andrieu, Erica Connell, Shigeya Suzuki, and Zaïda Rivai. [Read their full bios](/about/board/).
+
 The Rebooting Web of Trust Coordination Team is Christopher Allen, Joe Andrieu, Eric Schuh, Erica Connell, Will Abramson, Carsten Stocker, and Shannon Appelcline.
 
 Email the leadership team at [Leadership@WebOfTrust.info](mailto:Leadership@WebOfTrust.info).
