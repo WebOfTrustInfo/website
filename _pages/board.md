@@ -36,6 +36,6 @@ rivai:
 {% include feature_row id="allen" type="left" %}
 {% include feature_row id="andrieu" type="left" %}
 {% include feature_row id="connell" type="left" %}
-{% include feature_row id="rivai" type="left" %}
 {% include feature_row id="suzuki" type="left" %}
+{% include feature_row id="rivai" type="left" %}
 
