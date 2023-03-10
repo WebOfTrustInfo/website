@@ -25,6 +25,9 @@ connell:
     excerpt: '_**BOARD & SECRETARY, RWOT.** Director of Media, Legendary Requirements._ Erica is the producer of _The Rubric_ podcast, an ongoing episodic discussion about different DID methods. She develops media telling the human stories highlighting the power and relevance of Decentralized Identity. She is a trained actor, director, and produced playwright.'
 suzuki:
   - image_path: "/assets/images/board-suzuki.png"
+    image_size: "200px"
+    alt: "Shugeya Suzuki"
+    title: "Shugeya Suzuki"
 rivai:
   - image_path: "/assets/images/board-rivai.png"
     image_size: "200px"
