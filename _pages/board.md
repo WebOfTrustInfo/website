@@ -35,7 +35,6 @@ rivai:
     alt: "Zaïda Rivai"
     title: "Zaïda Rivai"
     excerpt: '_**BOARD, RWOT.** Data Scientist, Danube Tech._ Zaïda is a Data Scientist at Danube Tech GmbH, a Vienna based company that makes it easy for developers to work with DIDs. She analyzed global DID data and created a platform which shows the latest trends on DID transactions, DID documents and DID errors.'
-
 ---
 
 {% include feature_row id="allen" type="left" %}
