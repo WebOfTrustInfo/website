@@ -7,16 +7,16 @@ author_profile: true
 title: "About RWOT: Board of Directors"
 allen:
   - image_path: "/assets/images/board-allen.png"
-    image_size: "100px"
+    image_size: "200px"
     alt: "Christopher Allen"
     title: "Christopher Allen"
-    excerpt: '_**FOUNDER & CHAIRMAN, RWOT.** Principal Architect, Blockchain Commons._ Christopher is a pioneer of cryptographic security on the Internet: he jointly developed SSL 3.0 and co-edited  the IETF TLS 1.0 spec, the heart of secure commerce on the Web. His more recent work on decentralized identity includes the creation of the 10 principles of Self-Sovereign Identity, co-authoring the W3C DID Core 1.0 spec, and being a W3C VC-WG Invited Expert.'
+    excerpt: '_**FOUNDER & CHAIRMAN, RWOT.**<br>Principal Architect, Blockchain Commons._<br><br>Christopher is a pioneer of cryptographic security on the Internet: he jointly developed SSL 3.0 and co-edited  the IETF TLS 1.0 spec, the heart of secure commerce on the Web. His more recent work on decentralized identity includes the creation of the 10 principles of Self-Sovereign Identity, co-authoring the W3C DID Core 1.0 spec, and being a W3C VC-WG Invited Expert.'
 andrieu:
   - image_path: "/assets/images/board-andrieu.png"
-    image_size: "150px"
+    image_size: "200px"
     alt: "Joe Andrieu"
     title: "Joe Andrieu"
-    excerpt: '_**BOARD & TREASURER, RWOT.** DID & VC Use Cases Co-Editor, W3C. Legendary Requirements, CEO._ Joe leads requirements efforts for the W3C Decentralized Identifiers WG, W3C Credentials CG and RWOT.  He is the creator of the DID Method Rubric, and the lead author of Joram 1.0.0, Amira 1.0.0, and the Functional Identity Primer.'
+    excerpt: '<i><b>BOARD & TREASURER, RWOT.</b><br>DID & VC Use Cases Co-Editor, W3C. Legendary Requirements, CEO.</i><br><br>Joe leads requirements efforts for the W3C Decentralized Identifiers WG, W3C Credentials CG and RWOT.  He is the creator of the DID Method Rubric, and the lead author of Joram 1.0.0, Amira 1.0.0, and the Functional Identity Primer.'
 connell:
   - image_path: "/assets/images/board-connell.png"
     image_size: "200px"
