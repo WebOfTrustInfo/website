@@ -38,9 +38,9 @@ rivai:
     excerpt: '<i><b>RWOT BOARD MEMBER.</b><br>Data Scientist, Danube Tech.</i><br><br>Zaïda is a Data Scientist at Danube Tech GmbH, a Vienna based company that makes it easy for developers to work with DIDs. She analyzed global DID data and created a platform which shows the latest trends on DID transactions, DID documents and DID errors.'
 ---
 
-{% include feature_row id="allen" type="left" %}
-{% include feature_row id="andrieu" type="left" %}
-{% include feature_row id="connell" type="left" %}
-{% include feature_row id="suzuki" type="left" %}
-{% include feature_row id="rivai" type="left" %}
+{% include feature_row id="allen" %}
+{% include feature_row id="andrieu" %}
+{% include feature_row id="connell" %}
+{% include feature_row id="suzuki" %}
+{% include feature_row id="rivai" %}
 
