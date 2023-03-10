@@ -28,6 +28,7 @@ suzuki:
     image_size: "200px"
     alt: "Shugeya Suzuki"
     title: "Shugeya Suzuki"
+    excerpt: '_**BOARD MEMBER, RWOT.** DID Core Test Suite Co-Editor, W3C. Ph.D., Project Professor, Keio University, Japan._'
 rivai:
   - image_path: "/assets/images/board-rivai.png"
     image_size: "200px"
