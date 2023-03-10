@@ -28,7 +28,8 @@ suzuki:
     image_size: "200px"
     alt: "Shugeya Suzuki"
     title: "Shugeya Suzuki"
-    excerpt: '_**BOARD MEMBER, RWOT.** DID Core Test Suite Co-Editor, W3C. Ph.D., Project Professor, Keio University, Japan._'
+    excerpt: "_**BOARD MEMBER, RWOT.** DID Core Test Suite Co-Editor, W3C. Ph.D., Project Professor, Keio University, Japan._ Shigeya is a distributed system expert with more than 30 years of experience both in the business sector and academia. Lately, active in W3C's DID and VC WG. He is one of the architects of Trusted Web, an initiative in Japan, and the principal designer of Originator Profile technology."
+
 rivai:
   - image_path: "/assets/images/board-rivai.png"
     image_size: "200px"
