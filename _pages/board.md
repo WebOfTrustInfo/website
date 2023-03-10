@@ -1,8 +1,6 @@
 ---
 permalink: /about/board/
 layout: single
-classes:
-  - wide
 author_profile: true
 title: "About RWOT: Board of Directors"
 board_1:
