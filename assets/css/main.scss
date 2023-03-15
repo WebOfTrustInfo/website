@@ -3,8 +3,19 @@
 search: false
 ---
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes";
+
+.page__subtitle {
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.notice--info {
+    font-size: .9em !important; // Between type-size-5 and type-size-6
+}
+
 $max-width:90%;
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
 
