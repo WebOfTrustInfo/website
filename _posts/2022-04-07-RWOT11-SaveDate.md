@@ -1,6 +1,8 @@
 ---
 title: "☑️ Save the Date for RWOT in the Hague: September 26-30, 2022"
 excerpt_separator: "<!--more-->"
+classes:
+  - wide
 categories:
   - RWOT Workshop
 tags:

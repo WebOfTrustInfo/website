@@ -1,6 +1,8 @@
 ---
 title: "Out of the Box 2052 Summary Published"
 excerpt_separator: "<!--more-->"
+classes:
+  - wide
 categories:
   - RWOT Virtual Salon
 tags:

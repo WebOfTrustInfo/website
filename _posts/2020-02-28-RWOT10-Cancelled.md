@@ -1,6 +1,8 @@
 ---
 title: "RWOT10 in Barcelona Cancelled"
 excerpt_separator: "<!--more-->"
+classes:
+  - wide
 categories:
   - RWOT Workshop
 tags:

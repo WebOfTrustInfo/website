@@ -1,6 +1,8 @@
 ---
 title: "☑️ Announcing Out of the Box 2052 Salon"
 excerpt_separator: "<!--more-->"
+classes:
+  - wide
 categories:
   - RWOT Virtual Salon
 tags:

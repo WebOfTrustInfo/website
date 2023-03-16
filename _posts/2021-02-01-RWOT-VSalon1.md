@@ -1,6 +1,8 @@
 ---
 title: "☑️ Announcing Decentralized Identity & Privacy Salon"
 excerpt_separator: "<!--more-->"
+classes:
+  - wide
 categories:
   - RWOT Virtual Salon
 tags:

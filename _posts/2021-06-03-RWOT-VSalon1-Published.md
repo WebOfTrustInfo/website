@@ -1,6 +1,8 @@
 ---
 title: "Decentralized Identity & Privacy Summary Published"
 excerpt_separator: "<!--more-->"
+classes:
+  - wide
 categories:
   - RWOT Virtual Salon
 tags:

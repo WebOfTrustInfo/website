@@ -1,6 +1,8 @@
 ---
 title: "RWOT11 a Success!"
 excerpt_separator: "<!--more-->"
+classes:
+  - wide
 categories:
   - RWOT Workshop
 tags:
