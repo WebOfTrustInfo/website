@@ -113,4 +113,4 @@ tag_archive:
   og_image: /assets/images/rwot-logo.png
 
 after_footer_scripts:
-	- /assets/js/cookie-consent.js
+  - /assets/js/cookie-consent.js
