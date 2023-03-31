@@ -31,7 +31,7 @@ Though the precise workshop process may vary from one event to another, the foll
 
 * [Getting Involved]({{ site.url }}{{ site.baseurl }}/about/getting-involved/)
 * [What to Expect]({{ site.url }}{{ site.baseurl }}/about/what-to-expect/)
-* [What Makes RWOT Unique]({{ site.url }}{{ site.baseurl }}/about/what-unique/)
+* [What Makes RWOT Unique]({{ site.url }}{{ site.baseurl }}/about/rwot-unique/)
 
 ## The Team
 
