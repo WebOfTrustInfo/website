@@ -1,5 +1,5 @@
 ---
-title: "RWOT11 Presentation Day is April 13th!"
+title: "RWOT11 Publication Day is April 13th!"
 excerpt_separator: "<!--more-->"
 classes:
   - wide
