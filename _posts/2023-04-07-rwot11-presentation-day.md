@@ -22,7 +22,7 @@ Please join us on Zoom at Thursday April 13th, 9:00am - 10:30am
 Pacific Daylight Time (12 noon to 1:30 EDT, 6pm-7:30pm CEST). You can
 receive the URL for the Zoom by querying on our Signal channel:
 
-https://signal.group/#CjQKIH0PMKoTHYM9sNZDAe1SmHHQR4-RJyg_BLqd31cyeKvaEhBHEZj5ZOK3hBe0xzswUbNv
+[https://signal.group/#CjQKIH0PMKoTHYM9sNZDAe1SmHHQR4-RJyg_BLqd31cyeKvaEhBHEZj5ZOK3hBe0xzswUbNv](https://signal.group/#CjQKIH0PMKoTHYM9sNZDAe1SmHHQR4-RJyg_BLqd31cyeKvaEhBHEZj5ZOK3hBe0xzswUbNv)
 
 ## Abstracts
 
