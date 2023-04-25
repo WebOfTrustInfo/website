@@ -8,14 +8,14 @@ title: "About RWOT"
 sidebar:
   title: "More Info"
   nav: about-links
-about links:
+about-links:
 - title: RWOT Info
 - children:
   - title: Our Mission
     url: /mission/
   - title: Our Code of Conduct
     url: /code-of-conduct/
-  - title Board Bios
+  - title: Board Bios
     url: /board/
 - title: Workshop Info
 - children:
