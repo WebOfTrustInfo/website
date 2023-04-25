@@ -11,3 +11,26 @@ main:
     url: /papers/
   - title: "Library"
     url: /library/
+about-links:
+- title: RWOT Info
+- children:
+  - title: Our Mission
+    url: /mission/
+  - title: Our Code of Conduct
+    url: /code-of-conduct/
+  - title: Board Bios
+    url: /board/
+- title: Workshop Info
+- children:
+  - title: Getting Involved
+    url: /getting-involved/
+  - title: What to Expect
+    url: /what-to-expect/
+  - title: What Makes RWOT Unique
+    url: /rwot-unique/
+- title: Other Info
+- children:
+  - title: Contact Info
+    url: #contact-info
+  - title: Primers
+    url: /library/
