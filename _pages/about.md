@@ -8,29 +8,6 @@ title: "About RWOT"
 sidebar:
   title: "More Info"
   nav: about-links
-about-links:
-- title: RWOT Info
-- children:
-  - title: Our Mission
-    url: /mission/
-  - title: Our Code of Conduct
-    url: /code-of-conduct/
-  - title: Board Bios
-    url: /board/
-- title: Workshop Info
-- children:
-  - title: Getting Involved
-    url: /getting-involved/
-  - title: What to Expect
-    url: /what-to-expect/
-  - title: What Makes RWOT Unique
-    url: /rwot-unique/
-- title: Other Info
-- children:
-  - title: Contact Info
-    url: #contact-info
-  - title: Primers
-    url: /library/
 ---
 
 The term "Web of Trust" dates back thirty years to PGP, where the "Web" referred to a distributed network of systems and the "Trust" was limited to the validation of keys. It revealed the need for decentralization and recognition on the internet.
