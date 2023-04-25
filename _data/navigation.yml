@@ -12,25 +12,21 @@ main:
   - title: "Library"
     url: /library/
 about-links:
-- title: RWOT Info
 - children:
-  - title: Our Mission
-    url: /mission/
+  - title: Our Board
+    url: /about/board/
   - title: Our Code of Conduct
-    url: /code-of-conduct/
-  - title: Board Bios
-    url: /board/
-- title: Workshop Info
+    url: /about/code-of-conduct/
+  - title: Our Contact Info
+    url: #contact-info
+  - title: Our Mission
+    url: /about/mission/
 - children:
   - title: Getting Involved
-    url: /getting-involved/
-  - title: What to Expect
-    url: /what-to-expect/
+    url: /about/getting-involved/
   - title: What Makes RWOT Unique
-    url: /rwot-unique/
-- title: Other Info
-- children:
-  - title: Contact Info
-    url: #contact-info
+    url: /about/rwot-unique/
+  - title: What to Expect
+    url: /about/what-to-expect/
   - title: Primers
     url: /library/
