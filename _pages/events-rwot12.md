@@ -8,7 +8,7 @@ title: "RWOT 12: Cologne, Germany"
 subtitle: "September 18-22, 2023"
 ---
 
-<img src="/assets/images/rwot-logo.png" style="float: right" width=200">
+<img src="/assets/images/rwot-logo.png" style="float: right" width=200>
 
 * **What?** Rebooting the Web of Trust Design Workshop 12
 * **When?** September 18-22, 2023
