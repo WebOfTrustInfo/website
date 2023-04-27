@@ -22,7 +22,7 @@ subtitle: "September 18-22, 2023"
 
 Rebooting the Web of Trust (RWoT) is a five-day in-person facilitated design workshop focused on decentralized identity. Its goal is to gather together participants interested in creating decentralized digital systems for our lasting mutal benefit. At each workshop, participants work together to create artifacts that can influence the future direction of decentralized internet. That includes [65 white papers](/papers/) to date, but also code, spreadsheets, and other concrete deliverables.
 
-Please see our ["About" pages"(/about/) for more information.
+Please see our ["About" pages"](/about/) for more information.
 
 ## Get Your Tickets
 
