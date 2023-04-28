@@ -5,6 +5,9 @@ classes:
   - wide
 author_profile: true
 title: "Our Mission"
+sidebar:
+  title: "More Info"
+  nav: about-links
 ---
 Rebooting the Web of Trust's mission is to empower individuals to co-create decentralized systems for lasting mutual benefit.
 

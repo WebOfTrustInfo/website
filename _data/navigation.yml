@@ -12,6 +12,8 @@ main:
   - title: "Library"
     url: /library/
 about-links:
+- title: About RWOT
+  url: /about/
 - children:
   - title: Our Board
     url: /about/board/

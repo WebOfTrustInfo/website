@@ -5,6 +5,9 @@ classes:
   - wide
 author_profile: true
 title: "What to Expect"
+sidebar:
+  title: "More Info"
+  nav: about-links
 ---
 
 Rebooting the Web of Trust is a *design workshop*, not a conference. That means that you should expect to roll up your sleeves and work when you arrive, helping to define the future of decentralized identity and other technologies on the internet. This work is broken into three stages. Here's what to expect at each:

@@ -25,6 +25,9 @@ board_2:
     alt: "Zaïda Rivai"
     title: "Zaïda Rivai"
     excerpt: '<i><b>RWOT BOARD MEMBER.</b><br>Data Scientist, Danube Tech.</i><br><br>Zaïda is a Data Scientist at Danube Tech GmbH, a Vienna based company that makes it easy for developers to work with DIDs. She analyzed global DID data and created a platform which shows the latest trends on DID transactions, DID documents and DID errors.'
+sidebar:
+  title: "More Info"
+  nav: about-links
 ---
 
 {% include feature_row id="board_1" %}
