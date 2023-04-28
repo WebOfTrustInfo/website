@@ -12,15 +12,11 @@ subtitle: "September 18-22, 2023"
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.597047199709!2d6.904300692118019!3d50.877825912459535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bf23b4ecbc4d1f%3A0xebc82a5e56a0489c!2sBlockchain%20Reallabor!5e0!3m2!1sen!2sus!4v1682636675830!5m2!1sen!2sus" width="400" height="300" style="border:1px solid black; float: right;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center>
 
-<ul>
-  <li><b>What?</b> Rebooting the Web of Trust 12
-  <li><b>When?</b> September 18-22, 2023
-  <li><b>Where?</b> Blockchain Reallabor
-    <ul>
-      <li>An der Hasenkaule 10
-      <li>50354 Hürth Germany (Cologne)
-    </ul>
-</ul>
+* **What?** Rebooting the Web of Trust 12
+* **When?** September 18-22, 2023
+* **Where?** Blockchain Reallabor
+   * An der Hasenkaule 10
+   * 50354 Hürth Germany (Cologne)
 
 
 ## About the Event
@@ -73,6 +69,10 @@ Closer to the event we'll have info on suggested accomodations near the event si
 
 _Schedule is currently very approximate. Please visit here at the start of the workshop for the precise times!_
 
+The workshop begins with the **Poster Night** from 7pm to 9pm on Monday September 18.
+
+The following four days have full schedules:
+
 <div class="calendar">
   <div class="timeline">
     <div class="spacer"></div>
@@ -92,18 +92,6 @@ _Schedule is currently very approximate. Please visit here at the start of the w
     <div class="time-marker">9 PM</div>
   </div>
   <div class="days">
-    <div class="day mon">
-      <div class="date">
-        <p class="date-num">18</p>
-        <p class="date-day">Mon</p>
-      </div>
-      <div class="events">
-        <div class="event start-7p end-9p evenings">
-          <p class="title">Poster Night</p>
-          <p class="time">7 PM - 9 PM</p>
-        </div>
-      </div>
-    </div>
     <div class="days">
       <div class="day tues">
         <div class="date">
@@ -136,6 +124,27 @@ _Schedule is currently very approximate. Please visit here at the start of the w
         </div>
       </div>
     </div>
+  </div>
+</div>
+
+<div class="calendar">
+  <div class="timeline">
+    <div class="spacer"></div>
+    <div class="time-marker">8 AM</div>
+    <div class="time-marker">9 AM</div>
+    <div class="time-marker">10 AM</div>
+    <div class="time-marker">11 AM</div>
+    <div class="time-marker">12 PM</div>
+    <div class="time-marker">1 PM</div>
+    <div class="time-marker">2 PM</div>
+    <div class="time-marker">3 PM</div>
+    <div class="time-marker">4 PM</div>
+    <div class="time-marker">5 PM</div>
+    <div class="time-marker">6 PM</div>
+    <div class="time-marker">7 PM</div>
+    <div class="time-marker">8 PM</div>
+    <div class="time-marker">9 PM</div>
+  </div>
     <div class="days">
       <div class="day thurs">
         <div class="date">
