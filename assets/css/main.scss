@@ -22,7 +22,7 @@ $max-width:90%;
 
 :root {
   --numDays: 5;
-  --numHours: 10;
+  --numHours: 13;
   --timeHeight: 60px;
   --calBgColor: #fff1f8;
   --eventBorderColor: #f2d3d8;
@@ -59,40 +59,116 @@ $max-width:90%;
 }
 
 // Place on Timeline
-.start-10 {
+.start-8a {
   grid-row-start: 2;
 }
 
-.start-12 {
+.end-8a {
+  grid-row-end: 2;
+}
+
+.start-9a {
+  grid-row-start: 3;
+}
+
+.end-9a {
+  grid-row-end: 3;
+}
+
+.start-10a {
   grid-row-start: 4;
 }
 
-.start-1 {
-  grid-row-start: 5;
-}
-
-.start-2 {
-  grid-row-start: 6;
-}
-
-.end-12 {
+.end-10a {
   grid-row-end: 4;
 }
 
-.end-1 {
+.start-11a {
+  grid-row-start: 5;
+}
+
+.end-11a {
   grid-row-end: 5;
 }
 
-.end-3 {
+.start-noon {
+  grid-row-start: 6;
+}
+
+.end-noon {
+  grid-row-end: 6;
+}
+
+.start-1p {
+  grid-row-start: 7;
+}
+
+.end-1p {
   grid-row-end: 7;
 }
 
-.end-4 {
+.start-2p {
+  grid-row-start: 8;
+}
+
+.end-2p {
   grid-row-end: 8;
 }
 
-.end-5 {
+.start-3p {
+  grid-row-start: 9;
+}
+
+.end-3p {
   grid-row-end: 9;
+}
+
+.start-4p {
+  grid-row-start: 10;
+}
+
+.end-4p {
+  grid-row-end: 10;
+}
+
+.start-5p {
+  grid-row-start: 11;
+}
+
+.end-5p {
+  grid-row-end: 11;
+}
+
+.start-6p {
+  grid-row-start: 12;
+}
+
+.end-6p {
+  grid-row-end: 12;
+}
+
+.start-7p {
+  grid-row-start: 13;
+}
+
+.end-7p {
+  grid-row-end: 13;
+}
+
+.start-8p {
+  grid-row-start: 14;
+}
+
+.end-8p {
+  grid-row-end: 14;
+}
+
+.start-9p {
+  grid-row-start: 14;
+}
+
+.end-9p {
+  grid-row-end: 14;
 }
 
 // Event
@@ -117,23 +193,19 @@ $max-width:90%;
 
 // Global / Etc
 
-body {
-  font-family: system-ui, sans-serif;
-}
-
-.corp-fi {
+.work {
   background: var(--eventColor1);
 }
 
-.ent-law {
+.evenings {
   background: var(--eventColor2);
 }
 
-.writing {
+.talk {
   background: var(--eventColor3);
 }
 
-.securities {
+.fun {
   background: var(--eventColor4);
 }
 
