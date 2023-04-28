@@ -5,6 +5,9 @@ classes:
   - wide
 author_profile: true
 title: "What Makes RWOT Unique?"
+sidebar:
+  title: "More Info"
+  nav: about-links
 ---
 
 Rebooting the Web of Trust isn't a traditional convention. Instead, it's a unique design workshop where you'll collaborate with peers to imagine the next generation of decentralized identity on the internet.
