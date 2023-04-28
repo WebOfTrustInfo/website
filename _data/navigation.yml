@@ -12,9 +12,9 @@ main:
   - title: "Library"
     url: /library/
 about-links:
-- title: About RWOT
-  url: /about/
 - children:
+  - title: About Home
+    url: /about/
   - title: Our Board
     url: /about/board/
   - title: Our Code of Conduct
