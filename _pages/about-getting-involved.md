@@ -5,6 +5,9 @@ classes:
   - wide
 author_profile: true
 title: "Getting Involved"
+sidebar:
+  title: "More Info"
+  nav: about-links
 ---
 
 The best way to get involved in Rebooting the Web of Trust is to attend a design workshop. Here's the current status of our next event:
