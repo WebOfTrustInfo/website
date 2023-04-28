@@ -8,17 +8,23 @@ title: "RWOT 12: Cologne, Germany"
 subtitle: "September 18-22, 2023"
 ---
 
-<img src="/assets/images/rwot-logo.png" style="float: right" width=200>
-
-* **What?** Rebooting the Web of Trust Design Workshop 12
-* **When?** September 18-22, 2023
-* **Where?** Blockchain Reallabor, An der Hasenkaule 10 50354 Hürth Germany (Cologne)
-
-## About the Event
-
 <center>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.597047199709!2d6.904300692118019!3d50.877825912459535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bf23b4ecbc4d1f%3A0xebc82a5e56a0489c!2sBlockchain%20Reallabor!5e0!3m2!1sen!2sus!4v1682636675830!5m2!1sen!2sus" width="400" height="300" style="border:1px solid black; float: right;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center>
+
+<ul>
+  <li><b>What?</b> Rebooting the Web of Trust 12
+  <li><b>When?</b> September 18-22, 2023
+  <li><b>Where?</b> Blockchain Reallabor
+    <ul>
+      <li>An der Hasenkaule 10
+      <li>50354 Hürth Germany (Cologne)
+    </ul>
+</ul>
+
+
+## About the Event
+
 
 Rebooting the Web of Trust (RWoT) is a five-day in-person facilitated design workshop focused on decentralized identity. Its goal is to gather together participants interested in creating decentralized digital systems for our lasting mutal benefit. At each workshop, participants work together to create artifacts that can influence the future direction of decentralized internet. That includes [65 white papers](/papers/) to date, but also code, spreadsheets, and other concrete deliverables.
 
