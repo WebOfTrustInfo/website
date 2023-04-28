@@ -5,6 +5,9 @@ classes:
   - wide
 author_profile: true
 title: "RWOT Library"
+sidebar:
+  title: "More Info"
+  nav: about-links
 ---
 
 _This library contains articles that may be of interest to RWOT attendees._
