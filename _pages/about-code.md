@@ -5,6 +5,9 @@ classes:
   - wide
 author_profile: true
 title: "Our Code of Conduct"
+sidebar:
+  title: "More Info"
+  nav: about-links
 ---
 
 Rebooting Web of Trust events bring together people from around the world who are committed to building a new Web of Trust based on self-sovereign principles. It is a space inclusive of persons of all backgrounds, orientations and identities. Dialogue, mutual respect and sharing are at the foundation of the decentralized web community and we expect all participants to follow these values. These guidelines help us establish collective trust and engage in productive deliberation.
