@@ -66,6 +66,82 @@ Closer to the event we'll have info on suggested accomodations near the event si
 
 ## Event Schedule
 
+_Schedule is currently very approximate. Please visit here at the start of the workshop for the precise times!_
+
+<div class="calendar">
+  <div class="timeline">
+    <div class="spacer"></div>
+    <div class="time-marker">8 AM</div>
+    <div class="time-marker">9 AM</div>
+    <div class="time-marker">10 AM</div>
+    <div class="time-marker">11 AM</div>
+    <div class="time-marker">12 PM</div>
+    <div class="time-marker">1 PM</div>
+    <div class="time-marker">2 PM</div>
+    <div class="time-marker">3 PM</div>
+    <div class="time-marker">4 PM</div>
+    <div class="time-marker">5 PM</div>
+    <div class="time-marker">6 PM</div>
+    <div class="time-marker">7 PM</div>
+    <div class="time-marker">8 PM</div>
+    <div class="time-marker">9 PM</div>
+  </div>
+  <div class="days">
+    <div class="day mon">
+      <div class="date">
+        <p class="date-num">18</p>
+        <p class="date-day">Mon</p>
+      </div>
+      <div class="events">
+        <div class="event start-7p end-9p evening">
+          <p class="title">Poster Night</p>
+          <p class="time">7 PM - 9 PM</p>
+        </div>
+      </div>
+    </div>
+    <div class="days">
+      <div class="day tues">
+        <div class="date">
+          <p class="date-num">19</p>
+          <p class="date-day">Tues</p>
+        </div>
+        <div class="events">
+        </div>
+      </div>
+    </div>
+    <div class="days">
+      <div class="day wed">
+        <div class="date">
+          <p class="date-num">20</p>
+          <p class="date-day">Wed</p>
+        </div>
+        <div class="events">
+        </div>
+      </div>
+    </div>
+    <div class="days">
+      <div class="day thurs">
+        <div class="date">
+          <p class="date-num">21</p>
+          <p class="date-day">Thurs</p>
+        </div>
+        <div class="events">
+        </div>
+      </div>
+    </div>
+    <div class="days">
+      <div class="day fri">
+        <div class="date">
+          <p class="date-num">22</p>
+          <p class="date-day">Fri</p>
+        </div>
+        <div class="events">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 ## Contact Us
 
 If you'd like to contact the leadership team, volunteer to help support RWOT, or sign up for our low-volume announcements-only mailing list, please see the [Contact Info on our About page]/about/#contact-info).
