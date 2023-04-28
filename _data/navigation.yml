@@ -13,6 +13,9 @@ main:
     url: /library/
 about-links:
 - children:
+  - title: About RWOT
+    url: /about/
+- children:
   - title: Our Board
     url: /about/board/
   - title: Our Code of Conduct
