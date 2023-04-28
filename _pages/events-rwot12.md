@@ -97,7 +97,7 @@ _Schedule is currently very approximate. Please visit here at the start of the w
         <p class="date-day">Mon</p>
       </div>
       <div class="events">
-        <div class="event start-7p end-9p evening">
+        <div class="event start-7p end-9p evenings">
           <p class="title">Poster Night</p>
           <p class="time">7 PM - 9 PM</p>
         </div>
@@ -110,6 +110,10 @@ _Schedule is currently very approximate. Please visit here at the start of the w
           <p class="date-day">Tues</p>
         </div>
         <div class="events">
+        <div class="event start-8a end-5p work">
+          <p class="title">Team Formation</p>
+          <p class="time">8 AM - 5 PM</p>
+        </div>
         </div>
       </div>
     </div>
@@ -120,6 +124,14 @@ _Schedule is currently very approximate. Please visit here at the start of the w
           <p class="date-day">Wed</p>
         </div>
         <div class="events">
+        <div class="event start-8a end-2p work">
+          <p class="title">Team Work</p>
+          <p class="time">8 AM - 2 PM</p>
+        </div>
+        <div class="event start-6p end-9p evenings">
+          <p class="title">Demo Night</p>
+          <p class="time">6 PM - 9 PM</p>
+        </div>
         </div>
       </div>
     </div>
@@ -130,6 +142,14 @@ _Schedule is currently very approximate. Please visit here at the start of the w
           <p class="date-day">Thurs</p>
         </div>
         <div class="events">
+        <div class="event start-8a end-noon fun">
+          <p class="title">Mandatory Fun</p>
+          <p class="time">8 AM - Noon</p>
+        </div>
+        <div class="event start-1p end-6p work">
+          <p class="title">Team Work</p>
+          <p class="time">1 PM - 6 PM</p>
+        </div>
         </div>
       </div>
     </div>
@@ -140,6 +160,18 @@ _Schedule is currently very approximate. Please visit here at the start of the w
           <p class="date-day">Fri</p>
         </div>
         <div class="events">
+        <div class="event start-8a end-1p work">
+          <p class="title">Team Work</p>
+          <p class="time">8 AM - 1 PM</p>
+        </div>
+        <div class="event start-2p end-5p talk">
+          <p class="title">RWOT Talk</p>
+          <p class="time">1 PM - 6 PM</p>
+        </div>
+        <div class="event start-6p end-9p evenings">
+          <p class="title">Final Dinner</p>
+          <p class="time">6 PM - 9 PM</p>
+        </div>
         </div>
       </div>
     </div>
