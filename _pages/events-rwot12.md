@@ -68,5 +68,4 @@ Closer to the event we'll have info on suggested accomodations near the event si
 
 ## Contact Us
 
-[email]
-[subscribe]
+If you'd like to contact the leadership team, volunteer to help support RWOT, or sign up for our low-volume announcements-only mailing list, please see the [Contact Info on our About page]/about/#contact-info).
