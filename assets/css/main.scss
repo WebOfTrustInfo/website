@@ -21,7 +21,7 @@ $max-width:90%;
 /* Calendar.scss */
 
 :root {
-  --numDays: 2;
+  --numDays: 4;
   --numHours: 14;
   --timeHeight: 60px;
   --calBgColor: #fff1f8;
@@ -60,107 +60,107 @@ $max-width:90%;
 
 // Place on Timeline
 .start-8a {
-  grid-row-start: 2;
+  grid-row-start: 1;
 }
 
 .end-8a {
-  grid-row-end: 2;
+  grid-row-end: 1;
 }
 
 .start-9a {
-  grid-row-start: 3;
+  grid-row-start: 2;
 }
 
 .end-9a {
-  grid-row-end: 3;
+  grid-row-end: 2;
 }
 
 .start-10a {
-  grid-row-start: 4;
+  grid-row-start: 3;
 }
 
 .end-10a {
-  grid-row-end: 4;
+  grid-row-end: 3;
 }
 
 .start-11a {
-  grid-row-start: 5;
+  grid-row-start: 4;
 }
 
 .end-11a {
-  grid-row-end: 5;
+  grid-row-end: 4;
 }
 
 .start-noon {
-  grid-row-start: 6;
+  grid-row-start: 5;
 }
 
 .end-noon {
-  grid-row-end: 6;
+  grid-row-end: 5;
 }
 
 .start-1p {
-  grid-row-start: 7;
+  grid-row-start: 6;
 }
 
 .end-1p {
-  grid-row-end: 7;
+  grid-row-end: 6;
 }
 
 .start-2p {
-  grid-row-start: 8;
+  grid-row-start: 7;
 }
 
 .end-2p {
-  grid-row-end: 8;
+  grid-row-end: 7;
 }
 
 .start-3p {
-  grid-row-start: 9;
+  grid-row-start: 8;
 }
 
 .end-3p {
-  grid-row-end: 9;
+  grid-row-end: 8;
 }
 
 .start-4p {
-  grid-row-start: 10;
+  grid-row-start: 9;
 }
 
 .end-4p {
-  grid-row-end: 10;
+  grid-row-end: 9;
 }
 
 .start-5p {
-  grid-row-start: 11;
+  grid-row-start: 10;
 }
 
 .end-5p {
-  grid-row-end: 11;
+  grid-row-end: 10;
 }
 
 .start-6p {
-  grid-row-start: 12;
+  grid-row-start: 11;
 }
 
 .end-6p {
-  grid-row-end: 12;
+  grid-row-end: 11;
 }
 
 .start-7p {
-  grid-row-start: 13;
+  grid-row-start: 12;
 }
 
 .end-7p {
-  grid-row-end: 13;
+  grid-row-end: 12;
 }
 
 .start-8p {
-  grid-row-start: 14;
+  grid-row-start: 13;
 }
 
 .end-8p {
-  grid-row-end: 14;
+  grid-row-end: 13;
 }
 
 .start-9p {
