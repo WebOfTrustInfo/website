@@ -13,7 +13,7 @@ main:
     url: /library/
 about-links:
 - children:
-  - title: About Home
+  - title: About RWOT
     url: /about/
   - title: Our Board
     url: /about/board/
