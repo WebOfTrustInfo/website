@@ -16,7 +16,7 @@ search: false
     font-size: .9em !important; // Between type-size-5 and type-size-6
 }
 
-$max-width:90%;
+$max-width:95%;
 
 /* Calendar.scss */
 
@@ -34,7 +34,7 @@ $max-width:90%;
 .calendar {
   display: grid;
   gap: 10px;
-  grid-template-columns: auto 1fr;
+  grid-template-columns: auto 1fr 1fr;
   margin: 2rem;
 }
 
@@ -47,7 +47,7 @@ $max-width:90%;
   display: grid;
   grid-column: 2;
   gap: 5px;
-  grid-template-columns: repeat(auto-fit, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(150px 1fr);
 }
 
 .events {
