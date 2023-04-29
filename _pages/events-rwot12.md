@@ -191,7 +191,6 @@ The following four days have full schedules:
       </div>
     </div>
   </div>
-</div>
 
 ## Contact Us
 
