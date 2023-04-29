@@ -97,27 +97,24 @@ The following four days have full schedules:
     <div class="time-marker">9 PM</div>
   </div>
   <div class="days">
-    <div class="days">
-      <div class="day tues">
-        <div class="date">
-          <p class="date-num">19</p>
-          <p class="date-day">Tues</p>
-        </div>
-        <div class="events">
+    <div class="day tues">
+      <div class="date">
+        <p class="date-num">19</p>
+        <p class="date-day">Tues</p>
+      </div>
+      <div class="events">
         <div class="event start-8a end-5p work">
           <p class="title">Team Formation</p>
           <p class="time">8 AM - 5 PM</p>
         </div>
-        </div>
       </div>
     </div>
-    <div class="days">
-      <div class="day wed">
-        <div class="date">
-          <p class="date-num">20</p>
-          <p class="date-day">Wed</p>
-        </div>
-        <div class="events">
+    <div class="day wed">
+      <div class="date">
+        <p class="date-num">20</p>
+        <p class="date-day">Wed</p>
+      </div>
+      <div class="events">
         <div class="event start-8a end-2p work">
           <p class="title">Team Work</p>
           <p class="time">8 AM - 2 PM</p>
@@ -125,7 +122,6 @@ The following four days have full schedules:
         <div class="event start-6p end-9p evenings">
           <p class="title">Demo Night</p>
           <p class="time">6 PM - 9 PM</p>
-        </div>
         </div>
       </div>
     </div>
@@ -150,13 +146,13 @@ The following four days have full schedules:
     <div class="time-marker">8 PM</div>
     <div class="time-marker">9 PM</div>
   </div>
-    <div class="days">
-      <div class="day thurs">
-        <div class="date">
-          <p class="date-num">21</p>
-          <p class="date-day">Thurs</p>
-        </div>
-        <div class="events">
+  <div class="days">
+    <div class="day thurs">
+      <div class="date">
+        <p class="date-num">21</p>
+        <p class="date-day">Thurs</p>
+      </div>
+      <div class="events">
         <div class="event start-8a end-noon fun">
           <p class="title">Mandatory Fun</p>
           <p class="time">8 AM - Noon</p>
@@ -165,16 +161,14 @@ The following four days have full schedules:
           <p class="title">Team Work</p>
           <p class="time">1 PM - 6 PM</p>
         </div>
-        </div>
       </div>
     </div>
-    <div class="days">
-      <div class="day fri">
-        <div class="date">
-          <p class="date-num">22</p>
-          <p class="date-day">Fri</p>
-        </div>
-        <div class="events">
+    <div class="day fri">
+      <div class="date">
+        <p class="date-num">22</p>
+        <p class="date-day">Fri</p>
+      </div>
+      <div class="events">
         <div class="event start-8a end-1p work">
           <p class="title">Team Work</p>
           <p class="time">8 AM - 1 PM</p>
@@ -187,10 +181,10 @@ The following four days have full schedules:
           <p class="title">Final Dinner</p>
           <p class="time">6 PM - 9 PM</p>
         </div>
-        </div>
       </div>
     </div>
   </div>
+</div>
 
 ## Contact Us
 
