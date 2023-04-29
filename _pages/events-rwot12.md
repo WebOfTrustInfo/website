@@ -6,6 +6,11 @@ classes:
 author_profile: true
 title: "RWOT 12: Cologne, Germany"
 subtitle: "September 18-22, 2023"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/events/rwot12-cologne.jpeg
+  og_image: /assets/images/rwot-logo.png
 ---
 
 <center>
