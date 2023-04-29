@@ -21,7 +21,6 @@ $max-width:90%;
 /* Calendar.scss */
 
 :root {
-  --numDays: 4;
   --numHours: 14;
   --timeHeight: 60px;
   --calBgColor: #fff1f8;
@@ -35,7 +34,7 @@ $max-width:90%;
 .calendar {
   display: grid;
   gap: 10px;
-  grid-template-columns: auto 1fr;
+  grid-template-columns: 1fr 1fr;
   margin: 2rem;
 }
 
