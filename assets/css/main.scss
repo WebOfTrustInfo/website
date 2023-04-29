@@ -34,7 +34,7 @@ $max-width:95%;
 .calendar {
   display: grid;
   gap: 10px;
-  grid-template-columns: auto 1fr 1fr;
+  grid-template-columns: auto 1fr;
   margin: 2rem;
 }
 
@@ -47,6 +47,7 @@ $max-width:95%;
   display: grid;
   grid-column: 2;
   gap: 5px;
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .events {
