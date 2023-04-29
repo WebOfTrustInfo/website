@@ -99,7 +99,7 @@ The following four days have full schedules:
   <div class="days">
     <div class="day tues">
       <div class="date">
-        <p class="date-num">19</p>
+        <p class="date-num">19 Sept.</p>
         <p class="date-day">Tues</p>
       </div>
       <div class="events">
@@ -111,7 +111,7 @@ The following four days have full schedules:
     </div>
     <div class="day wed">
       <div class="date">
-        <p class="date-num">20</p>
+        <p class="date-num">20 Sept.</p>
         <p class="date-day">Wed</p>
       </div>
       <div class="events">
@@ -149,7 +149,7 @@ The following four days have full schedules:
   <div class="days">
     <div class="day thurs">
       <div class="date">
-        <p class="date-num">21</p>
+        <p class="date-num">21 SEpt.</p>
         <p class="date-day">Thurs</p>
       </div>
       <div class="events">
@@ -165,7 +165,7 @@ The following four days have full schedules:
     </div>
     <div class="day fri">
       <div class="date">
-        <p class="date-num">22</p>
+        <p class="date-num">22 Sept.</p>
         <p class="date-day">Fri</p>
       </div>
       <div class="events">
@@ -175,7 +175,7 @@ The following four days have full schedules:
         </div>
         <div class="event start-2p end-5p talk">
           <p class="title">RWOT Talk</p>
-          <p class="time">1 PM - 6 PM</p>
+          <p class="time">2 PM - 5 PM</p>
         </div>
         <div class="event start-6p end-9p evenings">
           <p class="title">Final Dinner</p>
