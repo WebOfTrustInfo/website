@@ -26,13 +26,15 @@ header:
 
 ## About the Event
 
-Rebooting the Web of Trust (RWoT) is a five-day in-person facilitated design workshop focused on decentralized identity. Its goal is to gather together participants interested in creating decentralized digital systems for our lasting mutal benefit. At each workshop, participants work together to create artifacts that can influence the future direction of decentralized internet. That includes [65 white papers](/papers/) to date, but also code, spreadsheets, and other concrete deliverables.
+Rebooting the Web of Trust (RWoT) is a five-day in-person facilitated design workshop focused on decentralized identity. Its goal is to gather together participants interested in creating decentralized digital systems for our lasting mutal benefit. At each workshop, participants work together to create artifacts that can influence the future direction of decentralized identity. That includes [65 white papers](/papers/) to date, but also code, spreadsheets, and other concrete deliverables.
 
 Please see our ["About" pages"](/about/) for more information.
 
 ## Get Your Tickets
 
-Tickets are available through [Eventbrite](https://www.eventbrite.com/e/rebooting-the-web-of-trust-12-2023-cologne-tickets-597232116337). We expect that most participants will choose to produce a short advanced reading to help to steer the direction of conversation at the workshop and offered discounted rates for participants who choose to do so.
+Tickets are available through [Eventbrite](https://www.eventbrite.com/e/rebooting-the-web-of-trust-12-2023-cologne-tickets-597232116337). We expect that most participants will choose to produce a short advanced reading to help to steer the direction of conversation at the workshop and offer discounted rates for participants who choose to do so.
+
+Contact us for discount codes if you are submitting an advanced reading! See the [advanced reading primer](https://github.com/WebOfTrustInfo/rwot12-cologne/blob/main/advance-readings/advance-reading-primer.md) for more info.
 
 ### Early Bird Tickets
 
@@ -74,7 +76,7 @@ Closer to the event we'll have info on suggested accomodations near the event si
 
 _Schedule is currently very approximate. Please visit here at the start of the workshop for the precise times!_
 
-The workshop begins with the **Poster Night** from 7pm to 9pm on Monday September 18.
+The workshop begins with the **Poster Night** from 7pm to 9pm on **Monday September 18**.
 
 The following four days have full schedules:
 
@@ -149,7 +151,7 @@ The following four days have full schedules:
   <div class="days">
     <div class="day thurs">
       <div class="date">
-        <p class="date-num">21 SEpt.</p>
+        <p class="date-num">21 Sept.</p>
         <p class="date-day">Thurs</p>
       </div>
       <div class="events">
@@ -188,4 +190,4 @@ The following four days have full schedules:
 
 ## Contact Us
 
-If you'd like to contact the leadership team, volunteer to help support RWOT, or sign up for our low-volume announcements-only mailing list, please see the [Contact Info on our About page]/about/#contact-info).
+If you'd like to contact the leadership team, volunteer to help support RWOT, or sign up for our low-volume announcements-only mailing list, please see the [Contact Info on our About page](/about/#contact-info).
