@@ -5,6 +5,20 @@ classes:
   - wide
 author_profile: true
 title: "RWOT Events"
+rwot_12:
+  - image_path: "/assets/images/events/rwot12-cologne.jpeg"
+    alt: "RWOT 12"
+    title: "RWOT 12: Cologne (2023)"
+    excerpt: 'Our next RWOT is scheduled for Cologne in September 2023.'
+    url: "/events/rwot12"
+    btn_label: "Event Page"
+    btn_class: "btn--success"
+    url2: "https://www.eventbrite.com/e/rebooting-the-web-of-trust-12-2023-cologne-tickets-597232116337"
+    btn_label2: "Sign Up"
+    btn_class2: "btn--info"
+    url3: "https://github.com/WebOfTrustInfo/rwot12-cologne/"
+    btn_label3: "Repo"
+    btn_class3: "btn--info"
 rwot_11:
   - image_path: "/assets/images/events/rwot11a.jpeg"
     alt: "RWOT 11"
@@ -189,6 +203,8 @@ rwot_1:
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
+
+{% include feature_row id="rwot_12" type="left" %}
 {% include feature_row id="rwot_11" type="left" %}
 {% include feature_row id="vsalon_2" type="left" %}
 {% include feature_row id="vsalon_1" type="left" %}
