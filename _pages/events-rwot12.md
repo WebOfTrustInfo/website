@@ -89,6 +89,7 @@ The following four days have full schedules:
 <div class="calendar">
   <div class="timeline">
     <div class="spacer"></div>
+    <div class="spacer"></div>
     <div class="time-marker">8 AM</div>
     <div class="time-marker">9 AM</div>
     <div class="time-marker">10 AM</div>
@@ -138,6 +139,7 @@ The following four days have full schedules:
 
 <div class="calendar">
   <div class="timeline">
+    <div class="spacer"></div>
     <div class="spacer"></div>
     <div class="time-marker">8 AM</div>
     <div class="time-marker">9 AM</div>
