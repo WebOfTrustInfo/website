@@ -26,7 +26,7 @@ header:
 
 ## About the Event
 
-Rebooting the Web of Trust (RWoT) is a five-day in-person facilitated design workshop focused on decentralized identity. Its goal is to gather together participants interested in creating decentralized digital systems for our lasting mutal benefit. At each workshop, participants work together to create artifacts that can influence the future direction of decentralized identity. That includes [65 white papers](/papers/) to date, but also code, spreadsheets, and other concrete deliverables.
+Rebooting the Web of Trust (RWOT) is a five-day in-person facilitated design workshop focused on decentralized identity. Its goal is to gather together participants interested in creating decentralized digital systems for our lasting mutal benefit. At each workshop, participants work together to create artifacts that can influence the future direction of decentralized identity. That includes [65 white papers](/papers/) to date, but also code, spreadsheets, and other concrete deliverables.
 
 Please see our ["About" pages"](/about/) for more information.
 
@@ -48,6 +48,8 @@ _Purchased by July 14 (sales end at 8AM GMT-3 2022-07-15)_
 
 _The deadline for Early Bird advanced reading submission is July 7th._
 
+_We offer travel stipends and ticket scholarships for select attendees bringing diverse perspectives to the event. To apply for either, you must submit an advance reading paper by July 7th so we can make our selections before the July 14th Early Bird Deadline._
+
 ### Regular Tickets
 
 _Purchased by August 18 (sales end at 8AM GMT-3 2020-08-19)_
@@ -58,7 +60,7 @@ _Purchased by August 18 (sales end at 8AM GMT-3 2020-08-19)_
 * €1,288 Independent/Startup participant* with advanced reading
 * €388 Academic (or recent academic) with advanced reading and proof of enrollment or graduation
 
-_The deadline for Reguard advanced reading submission is August 11th._
+_The deadline for Regular advanced reading submission is August 11th._
 
 ## Prepare for the Event 
 
@@ -68,7 +70,11 @@ Get ready for the event with the following primers.
 * **[The RWOT Primer.](https://github.com/WebOfTrustInfo/rwot12-cologne/blob/main/advance-readings/rwot-primer.md)** What to expect at the event.
 * **[More Readings.](https://www.weboftrust.info/library/#technology-primers)** Additional primers on identity & decentralized technologies.
 
-## Accomodations & Travel Guide
+### Open Office Hours
+
+Christopher Allen is hosting  monthly "#RWOT Open Office Hours" each third Thursday of the month at 9:00am PT. Join us if you'd like to know more about the event! Stay up to date on this and other event info by [subscribing](https://www.weboftrust.info/subscribe/) to our low-volume announcements list.
+
+### Accomodations & Travel Guide
 
 Closer to the event we'll have info on suggested accomodations near the event site in Cologne as well as info on the local area.
 
