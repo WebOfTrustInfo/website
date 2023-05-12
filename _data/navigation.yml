@@ -11,6 +11,8 @@ main:
     url: /papers/
   - title: "Library"
     url: /library/
+  - title: "RWOT12"
+    url: /events/rwot12/
 about-links:
 - children:
   - title: About RWOT
