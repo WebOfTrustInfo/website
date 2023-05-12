@@ -1,0 +1,5 @@
+{% if page.subtitle %}
+    <p id="page-subtitle" class="page__subtitle p-name" itemprop="headline">
+    {{ page.subtitle | markdownify | strip_html | strip_newlines | escape_once }}
+    </p>
+{% endif %}

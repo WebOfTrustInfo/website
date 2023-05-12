@@ -16,6 +16,213 @@ search: false
     font-size: .9em !important; // Between type-size-5 and type-size-6
 }
 
-$max-width:90%;
+$max-width:95%;
+
+/* Calendar.scss */
+
+:root {
+  --numHours: 15;
+  --timeHeight: 60px;
+  --calBgColor: Silver;
+  --eventBorderColor: #f2d3d8;
+  --eventColor1: WhiteSmoke;
+  --eventColor2: #e2f8ff;
+  --eventColor3: #d1ffe6;
+  --eventColor4: LightYellow;
+}
+
+.calendar {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: auto 1fr;
+  margin: 2rem;
+}
+
+.timeline {
+  display: grid;
+  grid-template-rows: repeat(var(--numHours), var(--timeHeight));
+}
+
+.days {
+  display: grid;
+  grid-column: 2;
+  gap: 5px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.events {
+  display: grid;
+  grid-template-rows: repeat(var(--numHours), var(--timeHeight));
+  border-radius: 5px;
+  background: var(--calBgColor);
+}
+
+// Place on Timeline
+.start-8a {
+  grid-row-start: 2;
+}
+
+.end-8a {
+  grid-row-end: 2;
+}
+
+.start-9a {
+  grid-row-start: 3;
+}
+
+.end-9a {
+  grid-row-end: 3;
+}
+
+.start-10a {
+  grid-row-start: 4;
+}
+
+.end-10a {
+  grid-row-end: 4;
+}
+
+.start-11a {
+  grid-row-start: 5;
+}
+
+.end-11a {
+  grid-row-end: 5;
+}
+
+.start-noon {
+  grid-row-start: 6;
+}
+
+.end-noon {
+  grid-row-end: 6;
+}
+
+.start-1p {
+  grid-row-start: 7;
+}
+
+.end-1p {
+  grid-row-end: 7;
+}
+
+.start-2p {
+  grid-row-start: 8;
+}
+
+.end-2p {
+  grid-row-end: 8;
+}
+
+.start-3p {
+  grid-row-start: 9;
+}
+
+.end-3p {
+  grid-row-end: 9;
+}
+
+.start-4p {
+  grid-row-start: 10;
+}
+
+.end-4p {
+  grid-row-end: 10;
+}
+
+.start-5p {
+  grid-row-start: 11;
+}
+
+.end-5p {
+  grid-row-end: 11;
+}
+
+.start-6p {
+  grid-row-start: 12;
+}
+
+.end-6p {
+  grid-row-end: 12;
+}
+
+.start-7p {
+  grid-row-start: 13;
+}
+
+.end-7p {
+  grid-row-end: 13;
+}
+
+.start-8p {
+  grid-row-start: 14;
+}
+
+.end-8p {
+  grid-row-end: 14;
+}
+
+.start-9p {
+  grid-row-start: 15;
+}
+
+.end-9p {
+  grid-row-end: 15;
+}
+
+// Event
+
+.title {
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.event {
+  border: 1px solid var(--eventBorderColor);
+  border-radius: 5px;
+  padding: 0.5rem;
+  margin: 0 0.5rem;
+  background: white;
+}
+
+.space,
+.date {
+  height: 60px
+}
+
+// Global / Etc
+
+.work {
+  background: var(--eventColor1);
+}
+
+.evenings {
+  background: var(--eventColor2);
+}
+
+.talk {
+  background: var(--eventColor3);
+}
+
+.fun {
+  background: var(--eventColor4);
+}
+
+.date {
+  display: flex;
+  gap: 1em;
+}
+
+.date-num {
+  font-size: 3rem;
+  font-weight: 600;
+  display: inline;
+}
+
+.date-day {
+  display: inline;
+  font-size: 3rem;
+  font-weight: 100;
+}
 
 
