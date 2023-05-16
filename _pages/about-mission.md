@@ -18,7 +18,8 @@ RWOT reboots the classic model of a decentralized web of trust through organized
 * Virtual salons crowdsource inspiration and deliver statements.
 * Design workshops produce at least five white papers (or applications or other outputs) on topics decided by the group to have the greatest impact on the future.
 
-RWOT has published foundational work on Blockcerts, DIDs, the BTCR DID Method, self-sovereign identity, and Verifiable Credentials.
+RWOT has published foundational work on Blockcerts, DIDs, the BTCR DID
+Method, decentralized identity, and Verifiable Credentials.
 
 Other topics of interest have included: credential wallets, decentralized data, decentralized identity, DID resolution, key recovery, local names, models for identity, object capabilities, offline credentials, online cooperation, peer-to-peer distributed networks, Public Key Infrastructure (PKI), progressive trust, quantum security, reputation, selective disclosure, smart signatures, and trust metrics.
 

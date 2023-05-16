@@ -170,15 +170,9 @@ Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/
 
 ## Identity, Decentralized
 
-*Identity that is not controlled by a central server.*
+*Identity that is not controlled by a central server. Also, "Self-Sovereign Identity".*
 
 * **11/19/19:** [Decentralized Identity as a Meta-platform: How Cooperation Beats Aggregation](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/CooperationBeatsAggregation.pdf)
-
-## Identity, Self-Sovereign
-
-*A decentralized, portable digital identity that does not depend on any
-centralized authority.*
-
 * **4/12/19:** [How SSI Will Survive Capitalism](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/how-ssi-will-survive-capitalism.pdf)
 * **12/5/18:** [How to Convince Dad\* of the Importance of Self-Sovereign Identity](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.pdf)
 * **7/24/18:** [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-documents/a-roadmap-for-ssi.pdf)
