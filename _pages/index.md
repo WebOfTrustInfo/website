@@ -26,9 +26,9 @@ header:
     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/rwot-fp2.jpeg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/rwot-fp2.jpeg"></a>
 </figure>
 
-***What is RWOT?*** It's a new take on the classic model of a web of trust that was first suggested by PGP. Our goal is to support our community in creating decentralized models of identity and information, to ensure that we can remain in control of our assets, our accounts, and ourselves online!
+***What is RWOT?*** Rebooting the Web of Trust (RWOT) is a unique event that brings together professionals, researchers, and enthusiasts to collaborate on decentralized identity and trust solutions. Our goal is to support our community in generating and developing ideas that allow us to better remain in control of our assets, our accounts, and ourselves online!
 
-***What Does RWOT Do?*** RWOT consists of virtual salons and in-person design workshops. They allow us to germinate new ideas and produce finalized content that present those ideas to the larger community. Virtual salons crowdsource inspiration and deliver statements, while design workshops produce at least five white papers on topics decided by the group to have the greatest impact on the future.
+***What Does RWOT Do?*** RWOT consists of virtual salons and in-person design workshops. They help us to germinate new ideas, establish new connections, and produce finalized content that present those ideas to the larger community. Virtual salons crowdsource inspiration and deliver statements, while design workshops produce at least five white papers on topics decided by the group to have the greatest impact on the future.
 
 _Please consider joining us for the next RWOT event!_
 
