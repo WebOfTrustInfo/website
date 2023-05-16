@@ -14,7 +14,9 @@ Are you interested in shaping the future of decentralized identity, privacy, sec
 
 <!--more-->
 
-Our English-language, four-and-a-quarter day, facilitated event will use the same proven format as our previous design workshops. We will work together to produce white papers, specifications, and code that influence the future of decentralized identity by establishing and promoting new identity technologies. Full documentation of our prior events is available in our GitHub repositories, including photos, drafts, graphic output, and White Papers from previous events: https://www.weboftrust.info/events/
+Our English-language, four-and-a-quarter day, facilitated event will use the same proven format as our previous design workshops. We will work together to produce white papers, specifications, and code that influence the future of decentralized identity by establishing and promoting new identity technologies. Full documentation of our prior events is available in our GitHub repositories, including photos, drafts, graphic output, and White Papers from previous events: 
+
+[https://www.weboftrust.info/events/](https://www.weboftrust.info/events/)
 
 As you may be aware, the European Union is introducing significant changes to regulations around digital identity, privacy, and digital wallets this year. These regulations will profoundly impact the way businesses and individuals manage their digital identities and conduct transactions online. This RWOT design workshop offers an invaluable opportunity to influence the future of these regulatory changes by collaborating with leading experts in the field.
 
