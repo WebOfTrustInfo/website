@@ -30,7 +30,9 @@ header:
 
 ***What Does RWOT Do?*** RWOT consists of virtual salons and in-person design workshops. They help us to germinate new ideas, establish new connections, and produce finalized content that present those ideas to the larger community. Virtual salons crowdsource inspiration and deliver statements, while design workshops produce at least five white papers on topics decided by the group to have the greatest impact on the future.
 
-_Please consider joining us for the next RWOT event!_
+{% include nextevent-cta.md %}
+
+## Recent News
 
 {% capture notice-2 %}
 
