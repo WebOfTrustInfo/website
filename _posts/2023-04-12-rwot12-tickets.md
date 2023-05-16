@@ -8,14 +8,11 @@ categories:
 tags:
   - RWOT12
   - Cologne
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.25"
-  overlay_image: /assets/images/events/rwot12-cologne.jpeg
-  og_image: /assets/images/rwot-logo.png
 ---
 
 Are you interested in shaping the future of decentralized identity, privacy, security, and trust on the Internet? Then mark your calendars for our 12th Rebooting the Web of Trust (RWOT) event, coming to Cologne, Germany, from September 18-22, 2023.
+
+<!--more-->
 
 Our English-language, four-and-a-quarter day, facilitated event will use the same proven format as our previous design workshops. We will work together to produce white papers, specifications, and code that influence the future of decentralized identity by establishing and promoting new identity technologies. Full documentation of our prior events is available in our GitHub repositories, including photos, drafts, graphic output, and White Papers from previous events: https://www.weboftrust.info/events/
 
