@@ -7,7 +7,7 @@ toc: true
 toc_label: Final Papers
 ---
 This is categorized list of papers produced by the Rebooting the Web of
-Trust design workshops is complete through **RWOT-XI** in The Hague (2022). To date we have produced **64** papers across **10** workshops.
+Trust design workshops is complete through **RWOT-XI** in The Hague (2022). To date we have produced **66** papers across **10** workshops.
 
 ## Attestation
 
@@ -59,8 +59,9 @@ Inquiry](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/final-
 
 ## Credentials
 
-*A set of one or more claims about the same entity.*
+*A set of one or more claims about the same entity. Also see VERIFIABLE CREDENTIALS.*
 
+* **5/22/23:** [A Credential Profile Comparison Matrix to Facilitate Technical and Non-technical Decision Making](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/credential-profile-comparison.pdf)
 * **2/17/18:** [A Decentralized Approach to Blockcerts Credential
 Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.pdf)
 
@@ -172,6 +173,7 @@ Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/
 
 *Identity that is not controlled by a central server. Also, "Self-Sovereign Identity".*
 
+* **4/3/23:** [On-chain Identity Proof Verification Design Patterns: An Evaluation of Different Strategies to Inject Digital Identity into Decentralized Applications](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/onchain_identity_verification_flows.pdf)
 * **11/19/19:** [Decentralized Identity as a Meta-platform: How Cooperation Beats Aggregation](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/CooperationBeatsAggregation.pdf)
 * **4/12/19:** [How SSI Will Survive Capitalism](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/how-ssi-will-survive-capitalism.pdf)
 * **12/5/18:** [How to Convince Dad\* of the Importance of Self-Sovereign Identity](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.pdf)
@@ -291,6 +293,7 @@ Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/f
 
 *A tamper-evident set of claims about the same entity.*
 
+* **5/22/23:** [A Credential Profile Comparison Matrix to Facilitate Technical and Non-technical Decision Making](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/credential-profile-comparison.pdf)
 * **2/15/23:** [Composing Credentials via LinkedClaims and Cryptographic Binding](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/composable-credentials.pdf)
 * **2/3/23:** [Identifier Binding: defining the Core of Holder Binding](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/identifier-binding.pdf)
 * **12/19/22:** [Verifiable Issuers & Verifiers](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/verifiable-issuers-and-verifiers.pdf)
