@@ -113,3 +113,4 @@ city center of Cologne, which is easily reached via public transport
 selection on any accommodation search website, such as
 [Booking.com](https://www.booking.com/) or
 [airbnb](https://www.airbnb.com/).
+
