@@ -11,6 +11,8 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/events/rwot12-cologne.jpeg
   og_image: /assets/images/rwot-logo.png
+sidebar:
+  nav: rwot12
 ---
 
 ## Travelling to Germany
