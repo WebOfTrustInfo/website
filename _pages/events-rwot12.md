@@ -76,7 +76,7 @@ Christopher Allen is hosting  monthly "#RWOT Open Office Hours" each third Thurs
 
 ### Accomodations & Travel Guide
 
-Closer to the event we'll have info on suggested accomodations near the event site in Cologne as well as info on the local area.
+See the [RWOT12 Travel Guide](/events/rwot12/travel) for information on travel & accomodations.
 
 ## Event Schedule
 
