@@ -8,8 +8,8 @@ classes:
 sponsors:
   - image_path: "/assets/images/rwot-logo.png"
     alt: "Platinum Sponsor"
-    title: "PLATINUM SPONSOR"
-    excerpt: "<div style='background-color: #0099ff;   display: flex; justify-content: center; align-items: center; width: 100%; height: 35px; font-weight: bold'>€50,000</div>&bull;Designation of 1 topic for research and presentation at workshop<br>&bull;2 attendee passes<br>&bull;2 passes for external experts related to your topic<br>&bull;Plus all benefits of Gold Sponsorship"
+    title: "Platinum Sponsor"
+    excerpt: "<div style='background-color: #0099ff;   display: flex; justify-content: center; align-items: center; width: 100%; height: 35px; font-weight: bold'>€50,000</div>&loz;Designation of 1 topic for research and presentation at workshop<br>&loz;2 attendee passes<br>&loz;2 passes for external experts related to your topic<br>&loz;Plus all benefits of Gold Sponsorship"
   - image_path: "/assets/images/rwot-logo-gold.png"
     alt: "Joe Andrieu"
     title: "Joe Andrieu"
