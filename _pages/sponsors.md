@@ -9,7 +9,7 @@ sponsors:
   - image_path: "/assets/images/rwot-logo.png"
     alt: "Platinum Sponsor"
     title: "Platinum Sponsor"
-    excerpt: "<div style='background-color: #0099ff; display: flex; justify-content: center; align-items: center; width: 100%; height: 35px; font-weight: bold'>€50,000</div><div style='text-indent: -12px; padding-left: 12px'>&loz;Designation of 1 topic for research and presentation at workshop</div><div style='text-indent: -12px; padding-left: 12px'>&loz;2 attendee passes</div><div style='text-indent: -12px; padding-left: 12px'>&loz;2 passes for external experts related to your topic</div><div style='text-indent: -12px; padding-left: 12px'>&loz;Plus all benefits of Gold Sponsorship</div>"
+    excerpt: "<div style='background-color: #0099ff; display: flex; justify-content: center; align-items: center; width: 100%; height: 35px; font-weight: bold'>€50,000</div><div style='text-indent: -12px; padding-left: 12px'>&loz;&nbsp;Designation of 1 topic for research and presentation at workshop</div><div style='text-indent: -12px; padding-left: 12px'>&loz;&nbsp;2 attendee passes</div><div style='text-indent: -12px; padding-left: 12px'>&loz;&nbsp;2 passes for external experts related to your topic</div><div style='text-indent: -12px; padding-left: 12px'>&loz;&nbsp;Plus all benefits of Gold Sponsorship</div>"
   - image_path: "/assets/images/rwot-logo-gold.png"
     alt: "Gold Sponsor"
     title: "Gold Sponsor"
