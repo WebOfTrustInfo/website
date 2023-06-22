@@ -2,12 +2,14 @@
 permalink: /sponsors/
 layout: single
 author_profile: true
-title: "About RWOT: Board of Directors"
+title: "Sponsor RWOT"
+classes:
+  - wide
 sponsors:
   - image_path: "/assets/images/rwot-logo.png"
     alt: "Platinum Sponsor"
     title: "PLATINUM SPONSOR"
-    excerpt: "<b><span style='background-color: #0099ff'>€50,000</span></b><br><li>Designation of 1 topic for research and presentation at workshop<li>2 attendee passes<li>2 passes for external experts related to your topic<li>Plus all benefits of Gold Sponsorship"
+    excerpt: "<b><span style='background-color: #0099ff; text-align: center; width: 100%; height: 18px'>€50,000</span></b><br><ul><li>Designation of 1 topic for research and presentation at workshop<li>2 attendee passes<li>2 passes for external experts related to your topic<li>Plus all benefits of Gold Sponsorship</ul>"
   - image_path: "/assets/images/rwot-logo-gold.png"
     alt: "Joe Andrieu"
     title: "Joe Andrieu"

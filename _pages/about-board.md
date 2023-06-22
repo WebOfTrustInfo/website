@@ -3,6 +3,8 @@ permalink: /about/board/
 layout: single
 author_profile: true
 title: "About RWOT: Board of Directors"
+classes:
+  - wide
 board_1:
   - image_path: "/assets/images/board-allen.png"
     alt: "Christopher Allen"
