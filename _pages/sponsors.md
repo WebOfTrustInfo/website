@@ -9,7 +9,7 @@ sponsors:
   - image_path: "/assets/images/rwot-logo.png"
     alt: "Platinum Sponsor"
     title: "PLATINUM SPONSOR"
-    excerpt: "<b><span style='background-color: #0099ff; text-align: center; width: 100%; height: 18px'>€50,000</span></b><br><ul><li>Designation of 1 topic for research and presentation at workshop<li>2 attendee passes<li>2 passes for external experts related to your topic<li>Plus all benefits of Gold Sponsorship</ul>"
+    excerpt: "<div style='background-color: #0099ff;   display: flex; justify-content: center; align-items: center; width: 100%; height: 35px; font-weight: bold'>€50,000</div>&bull;Designation of 1 topic for research and presentation at workshop<br>&bull;2 attendee passes<br>&bull;2 passes for external experts related to your topic<br>&bull;Plus all benefits of Gold Sponsorship"
   - image_path: "/assets/images/rwot-logo-gold.png"
     alt: "Joe Andrieu"
     title: "Joe Andrieu"
