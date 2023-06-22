@@ -23,3 +23,4 @@ sponsors:
 
 {% include feature_row id="sponsors" %}
 
+For more info or to become a sponsor, email <a href="mailto:treasurer@weboftrust.info">treasurer@weboftrust.info</a>
