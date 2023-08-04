@@ -198,6 +198,18 @@ The following four days have full schedules:
   </div>
 </div>
 
+## Health Protocols
+
+As a live, in-person event, we will be observing protocols designed to minimize the risk of spreading or catching COVID-19 and other communicable diseases. 
+
+We require that all attendees test for COVID-19 each day of the conference, prior to starting the day’s event. Everyone will be given enough tests for the entire week of the workshop. Attendees who test positive or have other contagious indications (fevers, infections, etc.) should not attend until the appropriate quarantine period has passed, which we have determined using German health rules as of early 2023, which requires at least five days quarantine after the onset of symptoms and for tests to become negative.
+
+Attendees are encouraged to wear masks if desired, but will not be required to do so. Those individuals with exceptional concerns should not attend, but are welcome to collaborate on papers remotely. 
+
+RWOT will provide lanyards in three (3) colors. Attendees may choose to wear a **red** lanyard to indicate that they are social distancing and therefore request 6 feet of space, a **yellow** lanyard to indicate discomfort with physical contact, or **green&& lanyard to indicate no concerns around close interactions.
+
+At the moment, travel to Germany is clear of pandemic-era requirements or restrictions, but be sure to check before you head out, as new travel restrictions are always possible.
+
 ## Contact Us
 
 If you'd like to contact the leadership team, volunteer to help support RWOT, or sign up for our low-volume announcements-only mailing list, please see the [Contact Info on our About page](/about/#contact-info).
