@@ -206,7 +206,7 @@ We require that all attendees test for COVID-19 each day of the conference, prio
 
 Attendees are encouraged to wear masks if desired, but will not be required to do so. Those individuals with exceptional concerns should not attend, but are welcome to collaborate on papers remotely. 
 
-RWOT will provide lanyards in three (3) colors. Attendees may choose to wear a **red** lanyard to indicate that they are social distancing and therefore request 6 feet of space, a **yellow** lanyard to indicate discomfort with physical contact, or **green&& lanyard to indicate no concerns around close interactions.
+RWOT will provide lanyards in three (3) colors. Attendees may choose to wear a **red** lanyard to indicate that they are social distancing and therefore request 6 feet of space, a **yellow** lanyard to indicate discomfort with physical contact, or **green** lanyard to indicate no concerns around close interactions.
 
 At the moment, travel to Germany is clear of pandemic-era requirements or restrictions, but be sure to check before you head out, as new travel restrictions are always possible.
 
