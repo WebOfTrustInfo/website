@@ -205,15 +205,34 @@ The following four days have full schedules:
         <p class="date-day">Thurs</p>
       </div>
       <div class="events">
-        <div class="event start-1p end-6p work">
+        <div class="event start-8a end-9a talk">
+          <p class="title">Arrival, Ah-hahs</p>
+          <p class="time">8.15 AM - 9.15 AM</p>
+        </div>
+        <div class="event start-9a end-noon work">
           <p class="title">Team Work</p>
-          <p class="time">1 PM - 6 PM</p>
+          <p class="time">9.15 AM - 12.30 PM</p>
         </div>
-        <div class="event start-6p end-9p evenings">
+        <div class="event start-noon end-1p fun">
+          <p class="title">Lunch!</p>
+          <p class="time">12.30 PM - 1.30 PM</p>
+        </div>
+        <div class="event start-1p end-2p talk">
+          <p class="title">Report Out</p>
+          <p class="time">1.30 PM - 2.30 PM</p>
+        </div>        
+        <div class="event start-2p end-4p work">
+          <p class="title">Choose Your Own Adventure</p>
+          <p class="time">2.45 PM - 4.15 PM</p>
+        </div>        
+        <div class="event start-4p end-6p fun">
+          <p class="title">Afternoon Nap</p>
+          <p class="time">4.15 PM - 6.15 PM</p>
+        </div>
+        <div class="event start-8p end-9p evenings">
           <p class="title">Demo Night</p>
-          <p class="time">6 PM - 9 PM</p>
+          <p class="time">8 PM - 10 PM</p>
         </div>
-
       </div>
     </div>
     <div class="day fri">
