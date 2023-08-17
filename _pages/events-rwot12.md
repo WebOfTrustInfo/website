@@ -241,13 +241,25 @@ The following four days have full schedules:
         <p class="date-day">Fri</p>
       </div>
       <div class="events">
-        <div class="event start-8a end-1p work">
-          <p class="title">Team Work</p>
-          <p class="time">8 AM - 1 PM</p>
+        <div class="event start-8a end-9a talk">
+          <p class="title">Arrival, Ah-hahs</p>
+          <p class="time">8.15 AM - 9.15 AM</p>
         </div>
-        <div class="event start-2p end-5p talk">
-          <p class="title">RWOT Talk</p>
-          <p class="time">2 PM - 5 PM</p>
+       <div class="event start-9a end-noon work">
+          <p class="title">Team Wrap-up</p>
+          <p class="time">9.15 AM - Noon</p>
+        </div>
+        <div class="event start-noon end-1p fun">
+          <p class="title">Lunch!</p>
+          <p class="time">Noon - 1.06 PM</p>
+        </div>
+        <div class="event start-1p end-2p talk">
+          <p class="title">Report Out</p>
+          <p class="time">1.05 PM - 2.15 PM</p>
+        </div>
+        <div class="event start-2p end-4p talk">
+          <p class="title">Closing</p>
+          <p class="time">2.30 PM - 4.00 PM</p>
         </div>
         <div class="event start-6p end-9p evenings">
           <p class="title">Final Dinner</p>
