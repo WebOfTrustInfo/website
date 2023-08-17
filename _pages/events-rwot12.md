@@ -84,7 +84,7 @@ See the [RWOT12 Travel Guide](/events/rwot12/travel) for information on travel &
 
 _Schedule is currently very approximate. Please visit here at the start of the workshop for the precise times!_
 
-The workshop begins with the **Poster Night** from 7pm to 9pm on **Monday September 18**.
+The workshop begins with the **Poster Night** from 7pm to 9pm on **Monday September 18** in the **Expo**.
 
 The following four days have full schedules:
 
@@ -114,9 +114,37 @@ The following four days have full schedules:
         <p class="date-day">Tues</p>
       </div>
       <div class="events">
-        <div class="event start-8a end-5p work">
-          <p class="title">Team Formation</p>
-          <p class="time">8 AM - 5 PM</p>
+        <div class="event start-8a end-9a talk">
+          <p class="title">Reg & Breakfast</p>
+          <p class="time">8 AM - 9 AM</p>
+        </div>
+        <div class="event start-9a end-10a talk">
+          <p class="title">Intros & Principles</p>
+          <p class="time">9 AM - 10.05 AM</p>
+        </div>
+        <div class="event start-10a end-noon talk">
+          <p class="title">Past-Present-Future Mapping</p>
+          <p class="time">10.20 AM - 12.15 PM</p>
+        </div>
+        <div class="event start-noon end-1p talk">
+          <p class="title">Lunch!</p>
+          <p class="time">12.15 PM - 1.15 PM</p>
+        </div>
+        <div class="event start-1p end-3p work">
+          <p class="title">Proposal Selection</p>
+          <p class="time">1.15 PM - 2.55 PM</p>
+        </div>
+        <div class="event start-3p end-5p work">
+          <p class="title">Team Work</p>
+          <p class="time">3.10 PM - 5 PM</p>
+        </div>
+        <div class="event start-5p end-6p talk">
+          <p class="title">Report Out</p>
+          <p class="time">5.05 PM - 6.10 PM</p>
+        </div>
+        <div class="event start-5p end-6p evenings">
+          <p class="title">Dinner (Hürth)</p>
+          <p class="time">6.10 PM - 9 PM</p>
         </div>
       </div>
     </div>
