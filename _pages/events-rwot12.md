@@ -229,7 +229,7 @@ The following four days have full schedules:
           <p class="title">Afternoon Nap</p>
           <p class="time">4.15 PM - 6.15 PM</p>
         </div>
-        <div class="event start-8p end-9p evenings">
+        <div class="event start-8p end-10p evenings">
           <p class="title">Demo Night</p>
           <p class="time">8 PM - 10 PM</p>
         </div>
