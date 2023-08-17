@@ -142,7 +142,7 @@ The following four days have full schedules:
           <p class="title">Report Out</p>
           <p class="time">5.05 PM - 6.10 PM</p>
         </div>
-        <div class="event start-5p end-6p evenings">
+        <div class="event start-6p end-9p evenings">
           <p class="title">Dinner (Hürth)</p>
           <p class="time">6.10 PM - 9 PM</p>
         </div>
