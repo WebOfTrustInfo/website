@@ -3,7 +3,7 @@ main:
     url: /    
   - title: "About"
     url: /about/
-  - title: "Announcements"
+  - title: "Announce"
     url: /posts/
   - title: "Events"
     url: /events/
