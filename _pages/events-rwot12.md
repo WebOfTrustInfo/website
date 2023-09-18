@@ -16,12 +16,13 @@ sidebar:
 ---
 
 <center>
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.597047199709!2d6.904300692118019!3d50.877825912459535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bf23b4ecbc4d1f%3A0xebc82a5e56a0489c!2sBlockchain%20Reallabor!5e0!3m2!1sen!2sus!4v1682636675830!5m2!1sen!2sus" width="400" height="300" style="border:1px solid black; float: right;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://maps.google.com/maps?q=50.87790271246449%2C6.9085439667105675" width="400" height="300" style="border:1px solid black; float: right;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center>
 
 * **What?** Rebooting the Web of Trust 12
 * **When?** September 18-22, 2023
 * **Where?** Blockchain Reallabor
+   * euroNova Campus, Building 6 (follow the signs)
    * An der Hasenkaule 10
    * 50354 Hürth Germany (Cologne)
 
