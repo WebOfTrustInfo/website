@@ -22,7 +22,7 @@ sidebar:
 * **What?** Rebooting the Web of Trust 12
 * **When?** September 18-22, 2023
 * **Where?** Blockchain Reallabor
-   * euroNova Campus, Building 6 (follow the signs)
+   * euroNova Campus, Building 6 (AI Village)
    * An der Hasenkaule 10
    * 50354 Hürth Germany (Cologne)
 
