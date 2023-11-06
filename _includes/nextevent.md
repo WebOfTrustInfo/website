@@ -1,1 +1,1 @@
-RWOT12 is occurring this September 18-22. Attendees, please see the [RWOT12 page](/events/rwot12/) to get here! (We're with Blockchain Reallabor in Building 6 on the euroNova Campus.) If you haven't already, also be sure to see our [Travel Guide](https://www.weboftrust.info/events/rwot12/travel/).
+[RWOT12](/events/rwot12/) was a success this Fall. Thanks to our attendees! We hope to begin releasing papers from the workshop soon. Watch for word on RWOT13, coming in 2024.
