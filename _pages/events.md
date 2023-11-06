@@ -9,12 +9,12 @@ rwot_12:
   - image_path: "/assets/images/events/rwot12-cologne.jpeg"
     alt: "RWOT 12"
     title: "RWOT 12: Cologne (2023)"
-    excerpt: 'Our next RWOT is scheduled for Cologne in September 2023.'
+    excerpt: 'RWOT occurred in Cologne in September 2023. We hope to publish papers soon!'
     url: "/events/rwot12"
     btn_label: "Event Page"
     btn_class: "btn--success"
-    url2: "https://www.eventbrite.com/e/rebooting-the-web-of-trust-12-2023-cologne-tickets-597232116337"
-    btn_label2: "Sign Up"
+    url2: "https://github.com/WebOfTrustInfo/rwot11-the-hague/tree/master/advance-readings#topical-listing"
+    btn_label2: "Advance Readings"
     btn_class2: "btn--info"
     url3: "https://github.com/WebOfTrustInfo/rwot12-cologne/"
     btn_label3: "Repo"
