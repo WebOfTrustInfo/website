@@ -10,7 +10,7 @@ rwot_12:
     alt: "RWOT 12"
     title: "RWOT 12: Cologne (2023)"
     excerpt: 'RWOT occurred in Cologne in September 2023. We hope to publish papers soon!'
-    url: "https://github.com/WebOfTrustInfo/rwot12-the-hague/tree/master/final-documents#readme"
+    url: "https://github.com/WebOfTrustInfo/rwot12-cologne/tree/master/final-documents#readme"
     btn_label: "Final Papers"
     btn_class: "btn--success"
     url2: "https://github.com/WebOfTrustInfo/rwot12-cologne/tree/master/advance-readings#topical-listing"
