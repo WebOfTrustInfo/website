@@ -1,1 +1,1 @@
-[RWOT12](/events/rwot12/) was a success this Fall. Thanks to our attendees! We hope to begin releasing papers from the workshop soon. Watch for word on RWOT13, coming in 2024.
+[RWOT12](https://github.com/WebOfTrustInfo/rwot12-cologne/tree/main/final-documents#readme) was a success this Fall. Thanks to our attendees! We hope to begin releasing papers from the workshop soon. Watch for word on RWOT13, coming in 2024.
