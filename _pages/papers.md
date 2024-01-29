@@ -7,7 +7,7 @@ toc: true
 toc_label: Final Papers
 ---
 This is categorized list of papers produced by the Rebooting the Web of
-Trust design workshops is complete through **RWOT-XI** in The Hague (2022). To date we have produced **66** papers across **10** workshops.
+Trust design workshops is complete through **RWOT-XII** in Cologne (2023). To date we have produced **67** papers across **10** workshops.
 
 ## Attestation
 
@@ -173,6 +173,7 @@ Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/
 
 *Identity that is not controlled by a central server. Also, "Self-Sovereign Identity".*
 
+* **1/29/24:** [The Ecosystem Coordinator’s Role in SSI Ecosystem Management](https://github.com/WebOfTrustInfo/rwot12-cologne/blob/main/final-documents/ecosystem-management.pdf)
 * **4/3/23:** [On-chain Identity Proof Verification Design Patterns: An Evaluation of Different Strategies to Inject Digital Identity into Decentralized Applications](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/final-documents/onchain_identity_verification_flows.pdf)
 * **11/19/19:** [Decentralized Identity as a Meta-platform: How Cooperation Beats Aggregation](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/CooperationBeatsAggregation.pdf)
 * **4/12/19:** [How SSI Will Survive Capitalism](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot8-barcelona/blob/master/final-documents/how-ssi-will-survive-capitalism.pdf)
