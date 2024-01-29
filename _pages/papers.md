@@ -228,6 +228,10 @@ Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017
 * **2/17/17:** [Portable Reputation Toolkit Use
 Cases](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/reputation-toolkit.pdf)
 
+## Self-Sovereign Identity
+
+*Identity controlled by the user. See ["The Path to Self-Sovereign Identity"](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/) for its origination. See papers under [Identity, Decentralized](https://www.weboftrust.info/papers/#identity-decentralized)
+
 ## Signature
 
 A means for verifying the authenticity of a message or transaction by
