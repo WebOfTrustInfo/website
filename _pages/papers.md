@@ -7,7 +7,7 @@ toc: true
 toc_label: Final Papers
 ---
 This is categorized list of papers produced by the Rebooting the Web of
-Trust design workshops is complete through **RWOT-XII** in Cologne (2023). To date we have produced **67** papers across **10** workshops.
+Trust design workshops is complete through **RWOT-XII** in Cologne (2023). To date we have produced **68** papers across **11** workshops.
 
 ## Attestation
 
@@ -115,10 +115,12 @@ Syntaxes for DIDs](https://opencreds.github.io/did-spec/)
 * **8/24/16:** [Requirements for DIDs (Decentralized
 Identifiers)](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
 
-## DID Method
+## DID Methods
 
 *A regularized methodology for creating, reading, updating, and revoking
 a DID.*
+
+* **2/5/24:** [Beyond did:web](https://github.com/WebOfTrustInfo/rwot12-cologne/blob/main/final-documents/beyond-did-web.pdf)
 
 * **11/19/19:** [A Rubric for Decentralization of DID Methods](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/decentralization-rubric.pdf)
 * **4/9/19:** [Peer DID Method Specification
