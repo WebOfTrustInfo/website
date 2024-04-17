@@ -1,1 +1,1 @@
-[RWOT12](https://github.com/WebOfTrustInfo/rwot12-cologne/tree/main/final-documents#readme) was a success this Fall. Thanks to our attendees! We hope to begin releasing papers from the workshop soon. Watch for word on RWOT13, coming in 2024.
+RWOT13 will be October 7-11, 2024 in Ventura, California. Write up an [advance reading](https://github.com/WebOfTrustInfo/rwot13-ventura/tree/main/advance-readings#readme) and [register on Eventbrite](https://www.eventbrite.com/e/rebooting-the-web-of-trust-13-2024-ventura-tickets-881441755017).
