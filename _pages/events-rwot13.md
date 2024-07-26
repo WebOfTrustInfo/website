@@ -4,8 +4,8 @@ layout: single
 classes:
   - wide
 author_profile: true
-title: "RWOT 13: Cologne, Germany"
-subtitle: "September 18-22, 2023"
+title: "RWOT 13: Ventura, California (USA)"
+subtitle: "October 7-11, 2024"
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
