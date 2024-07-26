@@ -10,7 +10,7 @@ subtitle: "RWOT13: October 7-11, 2024"
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/events/rwot13b-ventura.jpeg
+  overlay_image: /assets/images/events/rwot13-venturab.jpeg
   og_image: /assets/images/rwot-logo.png
 sidebar:
   nav: rwot13
