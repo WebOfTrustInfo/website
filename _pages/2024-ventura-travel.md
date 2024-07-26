@@ -1,3 +1,21 @@
+---
+permalink: /events/rwot13/travel/
+layout: single
+classes:
+
+- wide
+author_profile: true
+title: "The RWOT 13 Travel Handbook"
+subtitle: "RWOT13: October 7-11, 2024"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: 
+  og_image: /assets/images/rwot-logo.png
+sidebar:
+  nav: rwot13
+---
+
 # TRAVELING TO VENTURA
 
 How to make sure your stay here is well organized and comfortable. 
