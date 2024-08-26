@@ -15,6 +15,8 @@ sidebar:
   nav: rwot13
 ---
 
+_RWOT13 has unfortunately [been cancelled](https://www.weboftrust.info/rwot%20workshop/rwot13-cancelled/)._
+
 <center>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11684.745538310348!2d-119.24928581640309!3d34.25068995709985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e84d59f2827249%3A0x4cf833719d9a3d8!2s1956%20Palma%20Dr%20Suite%20J%2C%20Ventura%2C%20CA%2093003!5e0!3m2!1sen!2sus!4v1722021080818!5m2!1sen!2sus" width="400" height="300" style="border:1px solid black; float: right;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center>
