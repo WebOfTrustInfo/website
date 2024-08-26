@@ -16,6 +16,8 @@ sidebar:
   nav: rwot13
 ---
 
+_RWOT13 has unfortunately [been cancelled](https://www.weboftrust.info/rwot%20workshop/rwot13-cancelled/)._
+
 # TRAVELING TO VENTURA
 
 How to make sure your stay here is well organized and comfortable. 
