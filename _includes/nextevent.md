@@ -1,1 +1,1 @@
-RWOT13 will be October 7-11, 2024 in Ventura, California. Read about [the event](/events/rwot13/), write up an [advance reading](https://github.com/WebOfTrustInfo/rwot13-ventura/tree/main/advance-readings#readme), and [register on Eventbrite](https://www.eventbrite.com/e/rebooting-the-web-of-trust-13-2024-ventura-tickets-881441755017).
+RWOT13, scheduled October, 2024 in Ventura, California, has unfortunately [been cancelled](https://www.weboftrust.info/rwot%20workshop/rwot13-cancelled/).
