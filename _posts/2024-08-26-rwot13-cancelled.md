@@ -1,11 +1,6 @@
 ---
 title: "RWOT13: Cancelled"
 excerpt_separator: "<!--more-->"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.25"
-  overlay_image: /assets/images/events/rwot13-ventura.jpeg
-  og_image: /assets/images/rwot-logo.png
 classes:
   - wide
 categories:
