@@ -1,1 +1,1 @@
-RWOT13, scheduled October, 2024 in Ventura, California, has unfortunately [been cancelled](https://www.weboftrust.info/rwot%20workshop/rwot13-cancelled/).
+The [Web of Trust events page](https://www.weboftrust.info/events/) contains a listing of RWOT's papers by workshop, while the [papers page](https://www.weboftrust.info/papers/) contains a listing of RWOT's final outputs by topic.
